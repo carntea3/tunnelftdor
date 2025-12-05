@@ -12,7 +12,7 @@ reset="\e[0m"
 
 # Folder bot yang digunakan dan URL repo Anda
 BOT_DIR="/root/tunnelftdor"
-REPO_URL="https://github.com/mudziboy/tunnelftdor.git"
+REPO_URL="https://github.com/carntea3/tunnelftdor.git"
 BOT_PORT="50123" # Port aplikasi Express/WebHook
 
 # ========== Remove Previous Bot ==========
