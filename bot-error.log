@@ -1,0 +1,1397 @@
+2025-11-14T14:12:16.520Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-15T06:25:20.804Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-16T00:17:47.612Z [ERROR]: Error saat generate Pakasir Payment (Manual Axios): PAKASIR_BASE_URL is not defined
+2025-11-16T00:17:47.616Z [ERROR]: ❌ Error creating Pakasir payment:
+2025-11-16T00:30:29.129Z [ERROR]: ❌ Error creating Pakasir payment:
+2025-11-16T01:05:17.586Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 103084613: 400: Bad Request: chat not found
+2025-11-16T01:05:18.700Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 201914895: 400: Bad Request: chat not found
+2025-11-16T01:05:19.451Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 215957266: 400: Bad Request: chat not found
+2025-11-16T01:05:20.134Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 262030080: 400: Bad Request: chat not found
+2025-11-16T01:05:20.834Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 266101876: 400: Bad Request: chat not found
+2025-11-16T01:05:21.528Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 274582395: 400: Bad Request: chat not found
+2025-11-16T01:05:22.223Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 288247392: 400: Bad Request: chat not found
+2025-11-16T01:05:22.933Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 316497155: 400: Bad Request: chat not found
+2025-11-16T01:05:23.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 337788055: 400: Bad Request: chat not found
+2025-11-16T01:05:25.529Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 382607331: 400: Bad Request: chat not found
+2025-11-16T01:05:26.273Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 397190133: 400: Bad Request: chat not found
+2025-11-16T01:05:26.952Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 408864570: 400: Bad Request: chat not found
+2025-11-16T01:05:27.634Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 418961854: 400: Bad Request: chat not found
+2025-11-16T01:05:28.684Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 478738053: 400: Bad Request: chat not found
+2025-11-16T01:05:29.779Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 521248504: 400: Bad Request: chat not found
+2025-11-16T01:05:30.487Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 551845725: 400: Bad Request: chat not found
+2025-11-16T01:05:31.181Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 589998956: 400: Bad Request: chat not found
+2025-11-16T01:05:31.905Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 624903760: 400: Bad Request: chat not found
+2025-11-16T01:05:32.619Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 641238169: 400: Bad Request: chat not found
+2025-11-16T01:05:33.367Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 669002897: 400: Bad Request: chat not found
+2025-11-16T01:05:34.143Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 693472567: 400: Bad Request: chat not found
+2025-11-16T01:05:34.883Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 718333819: 400: Bad Request: chat not found
+2025-11-16T01:05:35.612Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 742679229: 400: Bad Request: chat not found
+2025-11-16T01:05:36.305Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 791436244: 400: Bad Request: chat not found
+2025-11-16T01:05:36.986Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 793401100: 400: Bad Request: chat not found
+2025-11-16T01:05:37.673Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 803307590: 400: Bad Request: chat not found
+2025-11-16T01:05:38.384Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 806715584: 400: Bad Request: chat not found
+2025-11-16T01:05:39.079Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 808184217: 400: Bad Request: chat not found
+2025-11-16T01:05:39.796Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 813761017: 400: Bad Request: chat not found
+2025-11-16T01:05:40.512Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 823414375: 400: Bad Request: chat not found
+2025-11-16T01:05:41.206Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 893680248: 400: Bad Request: chat not found
+2025-11-16T01:05:41.912Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 904169743: 400: Bad Request: chat not found
+2025-11-16T01:05:43.450Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 984331304: 400: Bad Request: chat not found
+2025-11-16T01:05:44.157Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1010934400: 400: Bad Request: chat not found
+2025-11-16T01:05:44.527Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1052794885: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:05:45.214Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1057674331: 400: Bad Request: chat not found
+2025-11-16T01:05:46.048Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1074003341: 400: Bad Request: chat not found
+2025-11-16T01:05:47.502Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1149212168: 400: Bad Request: chat not found
+2025-11-16T01:05:48.987Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1187999288: 400: Bad Request: chat not found
+2025-11-16T01:05:49.686Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1197982472: 400: Bad Request: chat not found
+2025-11-16T01:05:50.383Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1202200296: 400: Bad Request: chat not found
+2025-11-16T01:05:51.118Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1228693867: 400: Bad Request: chat not found
+2025-11-16T01:05:52.348Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1250676393: 400: Bad Request: chat not found
+2025-11-16T01:05:53.234Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1252840906: 400: Bad Request: chat not found
+2025-11-16T01:05:54.011Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1274477023: 400: Bad Request: chat not found
+2025-11-16T01:05:54.784Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1294583646: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:05:55.563Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1303823690: 400: Bad Request: chat not found
+2025-11-16T01:05:56.317Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1328452454: 400: Bad Request: chat not found
+2025-11-16T01:05:57.479Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1337630621: 400: Bad Request: chat not found
+2025-11-16T01:05:58.278Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1339500427: 400: Bad Request: chat not found
+2025-11-16T01:05:59.019Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1342327525: 400: Bad Request: chat not found
+2025-11-16T01:05:59.720Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1344149112: 400: Bad Request: chat not found
+2025-11-16T01:06:01.260Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1368385580: 400: Bad Request: chat not found
+2025-11-16T01:06:02.405Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1395156160: 400: Bad Request: chat not found
+2025-11-16T01:06:03.118Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1417954258: 400: Bad Request: chat not found
+2025-11-16T01:06:04.371Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1494687182: 400: Bad Request: chat not found
+2025-11-16T01:06:05.170Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1497136567: 400: Bad Request: chat not found
+2025-11-16T01:06:05.903Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1511618611: 400: Bad Request: chat not found
+2025-11-16T01:06:07.003Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1546021598: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:06:07.700Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1549572838: 400: Bad Request: chat not found
+2025-11-16T01:06:08.854Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1564275538: 400: Bad Request: chat not found
+2025-11-16T01:06:09.546Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1572796834: 400: Bad Request: chat not found
+2025-11-16T01:06:10.313Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1587522954: 400: Bad Request: chat not found
+2025-11-16T01:06:11.409Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1685020711: 400: Bad Request: chat not found
+2025-11-16T01:06:12.140Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1693261908: 400: Bad Request: chat not found
+2025-11-16T01:06:13.211Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1741349052: 400: Bad Request: chat not found
+2025-11-16T01:06:13.915Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1751010371: 400: Bad Request: chat not found
+2025-11-16T01:06:14.627Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1755090501: 400: Bad Request: chat not found
+2025-11-16T01:06:15.375Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1777161608: 400: Bad Request: chat not found
+2025-11-16T01:06:17.683Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1855099923: 400: Bad Request: chat not found
+2025-11-16T01:06:18.382Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1879266250: 400: Bad Request: chat not found
+2025-11-16T01:06:19.069Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1892801569: 400: Bad Request: chat not found
+2025-11-16T01:06:19.776Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1908273541: 400: Bad Request: chat not found
+2025-11-16T01:06:20.670Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1910271421: 400: Bad Request: chat not found
+2025-11-16T01:06:21.491Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1926304075: 400: Bad Request: chat not found
+2025-11-16T01:06:22.258Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1933571997: 400: Bad Request: chat not found
+2025-11-16T01:06:23.017Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1941721841: 400: Bad Request: chat not found
+2025-11-16T01:06:24.099Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1977394166: 400: Bad Request: chat not found
+2025-11-16T01:06:25.201Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1999190768: 400: Bad Request: chat not found
+2025-11-16T01:06:25.953Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2038077259: 400: Bad Request: chat not found
+2025-11-16T01:06:26.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2054188429: 400: Bad Request: chat not found
+2025-11-16T01:06:27.792Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2075823168: 400: Bad Request: chat not found
+2025-11-16T01:06:28.610Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2078535594: 400: Bad Request: chat not found
+2025-11-16T01:06:29.419Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2097559075: 400: Bad Request: chat not found
+2025-11-16T01:06:30.121Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2125648368: 400: Bad Request: chat not found
+2025-11-16T01:06:30.853Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2132162172: 400: Bad Request: chat not found
+2025-11-16T01:06:32.026Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5037794547: 400: Bad Request: chat not found
+2025-11-16T01:06:33.248Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5106869084: 400: Bad Request: chat not found
+2025-11-16T01:06:34.829Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5196590642: 400: Bad Request: chat not found
+2025-11-16T01:06:35.579Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5316122733: 400: Bad Request: chat not found
+2025-11-16T01:06:36.360Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5374567864: 400: Bad Request: chat not found
+2025-11-16T01:06:37.102Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5402572870: 400: Bad Request: chat not found
+2025-11-16T01:06:38.774Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5426619500: 400: Bad Request: chat not found
+2025-11-16T01:06:39.599Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5454149231: 400: Bad Request: chat not found
+2025-11-16T01:06:40.471Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5463047605: 400: Bad Request: chat not found
+2025-11-16T01:06:41.647Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5499369808: 400: Bad Request: chat not found
+2025-11-16T01:06:42.883Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5533189497: 400: Bad Request: chat not found
+2025-11-16T01:06:43.744Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5573592641: 400: Bad Request: chat not found
+2025-11-16T01:06:44.569Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5577822240: 400: Bad Request: chat not found
+2025-11-16T01:06:45.414Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5612937968: 400: Bad Request: chat not found
+2025-11-16T01:06:46.617Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5635983203: 400: Bad Request: chat not found
+2025-11-16T01:06:47.273Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2025-11-16T01:06:47.994Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5648530667: 400: Bad Request: chat not found
+2025-11-16T01:06:49.116Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5677765300: 400: Bad Request: chat not found
+2025-11-16T01:06:49.886Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5683657742: 400: Bad Request: chat not found
+2025-11-16T01:06:50.671Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5689673004: 400: Bad Request: chat not found
+2025-11-16T01:06:51.507Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5692234630: 400: Bad Request: chat not found
+2025-11-16T01:06:52.271Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5708771488: 400: Bad Request: chat not found
+2025-11-16T01:06:53.105Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5726799152: 400: Bad Request: chat not found
+2025-11-16T01:06:54.610Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5732745808: 400: Bad Request: chat not found
+2025-11-16T01:06:55.348Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5737735091: 400: Bad Request: chat not found
+2025-11-16T01:06:56.113Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5744597552: 400: Bad Request: chat not found
+2025-11-16T01:06:56.860Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5756568585: 400: Bad Request: chat not found
+2025-11-16T01:06:57.599Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5776027011: 400: Bad Request: chat not found
+2025-11-16T01:06:58.671Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5812719475: 400: Bad Request: chat not found
+2025-11-16T01:06:59.737Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5850302060: 400: Bad Request: chat not found
+2025-11-16T01:07:00.812Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5882250447: 400: Bad Request: chat not found
+2025-11-16T01:07:01.988Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5902620437: 400: Bad Request: chat not found
+2025-11-16T01:07:02.807Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5920844499: 400: Bad Request: chat not found
+2025-11-16T01:07:03.571Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5931807034: 400: Bad Request: chat not found
+2025-11-16T01:07:04.378Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5941308498: 400: Bad Request: chat not found
+2025-11-16T01:07:05.109Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5956624761: 400: Bad Request: chat not found
+2025-11-16T01:07:05.853Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5987651227: 400: Bad Request: chat not found
+2025-11-16T01:07:06.651Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5988778935: 400: Bad Request: chat not found
+2025-11-16T01:07:07.566Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5991934270: 400: Bad Request: chat not found
+2025-11-16T01:07:08.325Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6021620704: 400: Bad Request: chat not found
+2025-11-16T01:07:09.447Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6026226487: 400: Bad Request: chat not found
+2025-11-16T01:07:10.223Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6074017116: 400: Bad Request: chat not found
+2025-11-16T01:07:10.598Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6075544586: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-16T01:07:11.477Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6083649512: 400: Bad Request: chat not found
+2025-11-16T01:07:12.301Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6084325890: 400: Bad Request: chat not found
+2025-11-16T01:07:13.105Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6132965725: 400: Bad Request: chat not found
+2025-11-16T01:07:14.260Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6143762878: 400: Bad Request: chat not found
+2025-11-16T01:07:15.009Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6171063737: 400: Bad Request: chat not found
+2025-11-16T01:07:15.794Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6207127602: 400: Bad Request: chat not found
+2025-11-16T01:07:16.586Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6212427015: 400: Bad Request: chat not found
+2025-11-16T01:07:17.792Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6267566097: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:07:18.593Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6320503561: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:07:19.376Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6322006831: 400: Bad Request: chat not found
+2025-11-16T01:07:20.081Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6323528575: 400: Bad Request: chat not found
+2025-11-16T01:07:20.450Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6329157945: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-16T01:07:21.204Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6336906399: 400: Bad Request: chat not found
+2025-11-16T01:07:22.051Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6340987858: 400: Bad Request: chat not found
+2025-11-16T01:07:23.683Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358011996: 400: Bad Request: chat not found
+2025-11-16T01:07:24.995Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6391789362: 400: Bad Request: chat not found
+2025-11-16T01:07:25.773Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6415330719: 400: Bad Request: chat not found
+2025-11-16T01:07:26.944Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422122285: 400: Bad Request: chat not found
+2025-11-16T01:07:27.717Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422415561: 400: Bad Request: chat not found
+2025-11-16T01:07:29.297Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6448380972: 400: Bad Request: chat not found
+2025-11-16T01:07:30.078Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6461362381: 400: Bad Request: chat not found
+2025-11-16T01:07:30.838Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6469466777: 400: Bad Request: chat not found
+2025-11-16T01:07:31.591Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6498783966: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:07:32.414Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6499204722: 400: Bad Request: chat not found
+2025-11-16T01:07:33.318Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6500579892: 400: Bad Request: chat not found
+2025-11-16T01:07:34.090Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6511444738: 400: Bad Request: chat not found
+2025-11-16T01:07:35.232Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6524575399: 400: Bad Request: chat not found
+2025-11-16T01:07:36.010Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6537586272: 400: Bad Request: chat not found
+2025-11-16T01:07:37.166Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6551574192: 400: Bad Request: chat not found
+2025-11-16T01:07:38.322Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6581289689: 400: Bad Request: chat not found
+2025-11-16T01:07:39.475Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6605578570: 400: Bad Request: chat not found
+2025-11-16T01:07:40.234Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6608443537: 400: Bad Request: chat not found
+2025-11-16T01:07:41.465Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6618089604: 400: Bad Request: chat not found
+2025-11-16T01:07:42.186Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6621869154: 400: Bad Request: chat not found
+2025-11-16T01:07:43.069Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6634381709: 400: Bad Request: chat not found
+2025-11-16T01:07:43.839Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6638403818: 400: Bad Request: chat not found
+2025-11-16T01:07:44.921Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6645712354: 400: Bad Request: chat not found
+2025-11-16T01:07:45.618Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6659321822: 400: Bad Request: chat not found
+2025-11-16T01:07:46.379Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6689451770: 400: Bad Request: chat not found
+2025-11-16T01:07:47.883Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6774906972: 400: Bad Request: chat not found
+2025-11-16T01:07:48.654Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6796507964: 400: Bad Request: chat not found
+2025-11-16T01:07:49.448Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6804431123: 400: Bad Request: chat not found
+2025-11-16T01:07:50.234Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6807236194: 400: Bad Request: chat not found
+2025-11-16T01:07:50.986Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6809100247: 400: Bad Request: chat not found
+2025-11-16T01:07:51.794Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6812816008: 400: Bad Request: chat not found
+2025-11-16T01:07:53.311Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6840133455: 400: Bad Request: chat not found
+2025-11-16T01:07:54.085Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6841665083: 400: Bad Request: chat not found
+2025-11-16T01:07:54.883Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6851034839: 400: Bad Request: chat not found
+2025-11-16T01:07:56.402Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6884448043: 400: Bad Request: chat not found
+2025-11-16T01:07:57.537Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917258039: 400: Bad Request: chat not found
+2025-11-16T01:07:58.255Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917361242: 400: Bad Request: chat not found
+2025-11-16T01:07:59.069Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6919694249: 400: Bad Request: chat not found
+2025-11-16T01:08:01.119Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7005503331: 400: Bad Request: chat not found
+2025-11-16T01:08:01.943Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7026497998: 400: Bad Request: chat not found
+2025-11-16T01:08:02.769Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7037464109: 400: Bad Request: chat not found
+2025-11-16T01:08:03.529Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7086433067: 400: Bad Request: chat not found
+2025-11-16T01:08:04.998Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7114541533: 400: Bad Request: chat not found
+2025-11-16T01:08:05.854Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7127089684: 400: Bad Request: chat not found
+2025-11-16T01:08:07.006Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7144440494: 400: Bad Request: chat not found
+2025-11-16T01:08:07.785Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7161146605: 400: Bad Request: chat not found
+2025-11-16T01:08:09.324Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7209791934: 400: Bad Request: chat not found
+2025-11-16T01:08:10.968Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7235459458: 400: Bad Request: chat not found
+2025-11-16T01:08:11.784Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7236195112: 400: Bad Request: chat not found
+2025-11-16T01:08:12.614Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7263409376: 400: Bad Request: chat not found
+2025-11-16T01:08:13.875Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324480648: 400: Bad Request: chat not found
+2025-11-16T01:08:14.677Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324869375: 400: Bad Request: chat not found
+2025-11-16T01:08:15.452Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7345303663: 400: Bad Request: chat not found
+2025-11-16T01:08:16.269Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7359524103: 400: Bad Request: chat not found
+2025-11-16T01:08:16.998Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7372917525: 400: Bad Request: chat not found
+2025-11-16T01:08:17.346Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7429386113: 403: Forbidden: bot was blocked by the user
+2025-11-16T01:08:18.056Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7446881091: 400: Bad Request: chat not found
+2025-11-16T01:08:18.841Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7449627253: 400: Bad Request: chat not found
+2025-11-16T01:08:20.009Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7465370442: 400: Bad Request: chat not found
+2025-11-16T01:08:20.756Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7469879674: 400: Bad Request: chat not found
+2025-11-16T01:08:22.855Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7520860443: 400: Bad Request: chat not found
+2025-11-16T01:08:23.628Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7536174748: 400: Bad Request: chat not found
+2025-11-16T01:08:24.783Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7575211071: 400: Bad Request: chat not found
+2025-11-16T01:08:26.326Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7606124814: 400: Bad Request: chat not found
+2025-11-16T01:08:28.201Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7641892285: 400: Bad Request: chat not found
+2025-11-16T01:08:28.895Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7649633746: 400: Bad Request: chat not found
+2025-11-16T01:08:29.595Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7683622572: 400: Bad Request: chat not found
+2025-11-16T01:08:30.364Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7686667939: 400: Bad Request: chat not found
+2025-11-16T01:08:31.181Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7692401132: 400: Bad Request: chat not found
+2025-11-16T01:08:32.044Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7696416757: 400: Bad Request: chat not found
+2025-11-16T01:08:32.881Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7698439730: 400: Bad Request: chat not found
+2025-11-16T01:08:33.654Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7711356911: 400: Bad Request: chat not found
+2025-11-16T01:08:34.389Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7729095853: 400: Bad Request: chat not found
+2025-11-16T01:08:35.166Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7731683575: 400: Bad Request: chat not found
+2025-11-16T01:08:35.948Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7736989798: 400: Bad Request: chat not found
+2025-11-16T01:08:36.699Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7748551707: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-16T01:08:37.463Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7758150740: 400: Bad Request: chat not found
+2025-11-16T01:08:38.204Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7766811185: 400: Bad Request: chat not found
+2025-11-16T01:08:38.890Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7775219044: 400: Bad Request: chat not found
+2025-11-16T01:08:39.579Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7778402764: 400: Bad Request: chat not found
+2025-11-16T01:08:40.276Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7783468584: 400: Bad Request: chat not found
+2025-11-16T01:08:41.333Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7798647037: 400: Bad Request: chat not found
+2025-11-16T01:08:42.040Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7803540719: 400: Bad Request: chat not found
+2025-11-16T01:08:43.521Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7836564789: 400: Bad Request: chat not found
+2025-11-16T01:08:44.686Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7859353242: 400: Bad Request: chat not found
+2025-11-16T01:08:45.414Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7869274212: 400: Bad Request: chat not found
+2025-11-16T01:08:46.115Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7876172154: 400: Bad Request: chat not found
+2025-11-16T01:08:46.876Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7899457432: 400: Bad Request: chat not found
+2025-11-16T01:08:47.610Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7900982878: 400: Bad Request: chat not found
+2025-11-16T01:08:48.329Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7901116752: 400: Bad Request: chat not found
+2025-11-16T01:08:49.432Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7908924246: 400: Bad Request: chat not found
+2025-11-16T01:08:50.857Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7938011031: 400: Bad Request: chat not found
+2025-11-16T01:08:51.605Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7947782566: 400: Bad Request: chat not found
+2025-11-16T01:08:52.715Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7956595750: 400: Bad Request: chat not found
+2025-11-16T01:08:53.413Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7980141797: 400: Bad Request: chat not found
+2025-11-16T01:08:53.764Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7988769456: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-16T01:08:54.596Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8001507141: 400: Bad Request: chat not found
+2025-11-16T01:08:55.383Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8006484609: 400: Bad Request: chat not found
+2025-11-16T01:08:56.137Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8020720645: 400: Bad Request: chat not found
+2025-11-16T01:08:56.871Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8027295331: 400: Bad Request: chat not found
+2025-11-16T01:08:57.643Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8030645853: 400: Bad Request: chat not found
+2025-11-16T01:08:58.381Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8045557438: 400: Bad Request: chat not found
+2025-11-16T01:08:59.087Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8058279999: 400: Bad Request: chat not found
+2025-11-16T01:09:00.206Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8076769650: 400: Bad Request: chat not found
+2025-11-16T01:09:00.943Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8084992536: 400: Bad Request: chat not found
+2025-11-16T01:09:02.813Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8156170687: 400: Bad Request: chat not found
+2025-11-16T01:09:03.718Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8194619339: 400: Bad Request: chat not found
+2025-11-16T01:09:04.677Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8210057797: 400: Bad Request: chat not found
+2025-11-16T01:09:05.891Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8219425355: 400: Bad Request: chat not found
+2025-11-16T01:09:06.742Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8223130730: 400: Bad Request: chat not found
+2025-11-16T01:09:08.332Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8233857919: 400: Bad Request: chat not found
+2025-11-16T01:09:09.632Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8245091705: 400: Bad Request: chat not found
+2025-11-16T01:09:10.516Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8263695329: 400: Bad Request: chat not found
+2025-11-16T01:09:11.321Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8275078685: 400: Bad Request: chat not found
+2025-11-16T01:09:12.153Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8283784758: 400: Bad Request: chat not found
+2025-11-16T01:09:14.272Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8328025636: 400: Bad Request: chat not found
+2025-11-16T01:09:15.114Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8359019535: 400: Bad Request: chat not found
+2025-11-16T01:09:16.856Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8383197264: 400: Bad Request: chat not found
+2025-11-16T01:09:17.717Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8389342449: 400: Bad Request: chat not found
+2025-11-16T01:09:18.548Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8396669354: 400: Bad Request: chat not found
+2025-11-16T01:09:19.715Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8422226418: 400: Bad Request: chat not found
+2025-11-16T01:09:20.553Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8427677868: 400: Bad Request: chat not found
+2025-11-16T01:09:21.421Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8429366256: 400: Bad Request: chat not found
+2025-11-16T01:09:22.286Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8435557899: 400: Bad Request: chat not found
+2025-11-16T01:09:24.005Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8563180114: 400: Bad Request: chat not found
+2025-11-16T07:31:51.754Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:52.209Z [ERROR]: Error saat memulai bot: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:52.676Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:52.705Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:52.836Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.006Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.011Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.266Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.397Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.517Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.652Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.755Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:53.961Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:31:54.166Z [ERROR]: Error saat mengirim/mengedit menu utama: 403: Forbidden: bot was blocked by the user
+2025-11-16T07:53:48.357Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-16T07:54:21.814Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-17T13:43:13.355Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-18T13:35:03.594Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 103084613: 400: Bad Request: chat not found
+2025-11-18T13:35:04.953Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 201914895: 400: Bad Request: chat not found
+2025-11-18T13:35:06.190Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 215957266: 400: Bad Request: chat not found
+2025-11-18T13:35:07.615Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 262030080: 400: Bad Request: chat not found
+2025-11-18T13:35:08.551Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 266101876: 400: Bad Request: chat not found
+2025-11-18T13:35:09.479Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 274582395: 400: Bad Request: chat not found
+2025-11-18T13:35:10.368Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 288247392: 400: Bad Request: chat not found
+2025-11-18T13:35:11.209Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 316497155: 400: Bad Request: chat not found
+2025-11-18T13:35:12.499Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 337788055: 400: Bad Request: chat not found
+2025-11-18T13:35:15.126Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 382607331: 400: Bad Request: chat not found
+2025-11-18T13:35:16.477Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 397190133: 400: Bad Request: chat not found
+2025-11-18T13:35:17.522Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 408864570: 400: Bad Request: chat not found
+2025-11-18T13:35:18.856Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 418961854: 400: Bad Request: chat not found
+2025-11-18T13:35:20.142Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 478738053: 400: Bad Request: chat not found
+2025-11-18T13:35:21.387Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 521248504: 400: Bad Request: chat not found
+2025-11-18T13:35:22.320Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 551845725: 400: Bad Request: chat not found
+2025-11-18T13:35:23.835Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 589998956: 400: Bad Request: chat not found
+2025-11-18T13:35:25.156Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 624903760: 400: Bad Request: chat not found
+2025-11-18T13:35:32.674Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 641238169: 400: Bad Request: chat not found
+2025-11-18T13:35:33.660Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 669002897: 400: Bad Request: chat not found
+2025-11-18T13:35:34.572Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 693472567: 400: Bad Request: chat not found
+2025-11-18T13:35:35.591Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 718333819: 400: Bad Request: chat not found
+2025-11-18T13:35:36.398Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 742679229: 400: Bad Request: chat not found
+2025-11-18T13:35:37.675Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 791436244: 400: Bad Request: chat not found
+2025-11-18T13:35:38.643Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 793401100: 400: Bad Request: chat not found
+2025-11-18T13:35:40.009Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 803307590: 400: Bad Request: chat not found
+2025-11-18T13:35:41.348Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 806715584: 400: Bad Request: chat not found
+2025-11-18T13:35:44.967Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 808184217: 400: Bad Request: chat not found
+2025-11-18T13:35:45.948Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 813761017: 400: Bad Request: chat not found
+2025-11-18T13:35:47.497Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 823414375: 400: Bad Request: chat not found
+2025-11-18T13:35:48.409Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 893680248: 400: Bad Request: chat not found
+2025-11-18T13:35:49.414Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 904169743: 400: Bad Request: chat not found
+2025-11-18T13:35:51.756Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 984331304: 400: Bad Request: chat not found
+2025-11-18T13:35:52.725Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1010934400: 400: Bad Request: chat not found
+2025-11-18T13:35:53.483Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1052794885: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:35:54.427Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1057674331: 400: Bad Request: chat not found
+2025-11-18T13:35:55.328Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1074003341: 400: Bad Request: chat not found
+2025-11-18T13:35:59.895Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1149212168: 400: Bad Request: chat not found
+2025-11-18T13:36:01.931Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1187999288: 400: Bad Request: chat not found
+2025-11-18T13:36:02.851Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1197982472: 400: Bad Request: chat not found
+2025-11-18T13:36:03.865Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1202200296: 400: Bad Request: chat not found
+2025-11-18T13:36:04.904Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1228693867: 400: Bad Request: chat not found
+2025-11-18T13:36:06.454Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1250676393: 400: Bad Request: chat not found
+2025-11-18T13:36:07.346Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1252840906: 400: Bad Request: chat not found
+2025-11-18T13:36:08.288Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1274477023: 400: Bad Request: chat not found
+2025-11-18T13:36:09.200Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1294583646: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:36:10.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1303823690: 400: Bad Request: chat not found
+2025-11-18T13:36:11.102Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1328452454: 400: Bad Request: chat not found
+2025-11-18T13:36:12.483Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1337630621: 400: Bad Request: chat not found
+2025-11-18T13:36:13.335Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1339500427: 400: Bad Request: chat not found
+2025-11-18T13:36:14.281Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1342327525: 400: Bad Request: chat not found
+2025-11-18T13:36:15.085Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1344149112: 400: Bad Request: chat not found
+2025-11-18T13:36:17.820Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1368385580: 400: Bad Request: chat not found
+2025-11-18T13:36:19.199Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1395156160: 400: Bad Request: chat not found
+2025-11-18T13:36:20.144Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1417954258: 400: Bad Request: chat not found
+2025-11-18T13:36:21.940Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1494687182: 400: Bad Request: chat not found
+2025-11-18T13:36:23.336Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1497136567: 400: Bad Request: chat not found
+2025-11-18T13:36:24.740Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1511618611: 400: Bad Request: chat not found
+2025-11-18T13:36:26.844Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1546021598: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:36:27.792Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1549572838: 400: Bad Request: chat not found
+2025-11-18T13:36:29.570Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1564275538: 400: Bad Request: chat not found
+2025-11-18T13:36:30.664Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1572796834: 400: Bad Request: chat not found
+2025-11-18T13:36:31.673Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1587522954: 400: Bad Request: chat not found
+2025-11-18T13:36:33.496Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1685020711: 400: Bad Request: chat not found
+2025-11-18T13:36:33.613Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2025-11-18T13:36:34.329Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1693261908: 400: Bad Request: chat not found
+2025-11-18T13:36:35.656Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1741349052: 400: Bad Request: chat not found
+2025-11-18T13:36:36.418Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1751010371: 400: Bad Request: chat not found
+2025-11-18T13:36:37.381Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1755090501: 400: Bad Request: chat not found
+2025-11-18T13:36:38.708Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1777161608: 400: Bad Request: chat not found
+2025-11-18T13:36:40.867Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1840774761: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:36:41.809Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1855099923: 400: Bad Request: chat not found
+2025-11-18T13:36:42.825Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1879266250: 400: Bad Request: chat not found
+2025-11-18T13:36:44.284Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1892801569: 400: Bad Request: chat not found
+2025-11-18T13:36:45.350Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1908273541: 400: Bad Request: chat not found
+2025-11-18T13:36:46.290Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1910271421: 400: Bad Request: chat not found
+2025-11-18T13:36:47.005Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1926304075: 400: Bad Request: chat not found
+2025-11-18T13:36:47.932Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1933571997: 400: Bad Request: chat not found
+2025-11-18T13:36:48.919Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1941721841: 400: Bad Request: chat not found
+2025-11-18T13:36:51.795Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1977394166: 400: Bad Request: chat not found
+2025-11-18T13:36:53.577Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1999190768: 400: Bad Request: chat not found
+2025-11-18T13:36:55.022Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2038077259: 400: Bad Request: chat not found
+2025-11-18T13:36:55.844Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2054188429: 400: Bad Request: chat not found
+2025-11-18T13:36:57.200Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2075823168: 400: Bad Request: chat not found
+2025-11-18T13:36:58.116Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2078535594: 400: Bad Request: chat not found
+2025-11-18T13:36:59.113Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2097559075: 400: Bad Request: chat not found
+2025-11-18T13:37:00.420Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2125648368: 400: Bad Request: chat not found
+2025-11-18T13:37:01.357Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2132162172: 400: Bad Request: chat not found
+2025-11-18T13:37:02.719Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5037794547: 400: Bad Request: chat not found
+2025-11-18T13:37:04.480Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5106869084: 400: Bad Request: chat not found
+2025-11-18T13:37:06.247Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5196590642: 400: Bad Request: chat not found
+2025-11-18T13:37:07.927Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5316122733: 400: Bad Request: chat not found
+2025-11-18T13:37:08.760Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5374567864: 400: Bad Request: chat not found
+2025-11-18T13:37:09.790Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5402572870: 400: Bad Request: chat not found
+2025-11-18T13:37:11.740Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5426619500: 400: Bad Request: chat not found
+2025-11-18T13:37:13.032Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5454149231: 400: Bad Request: chat not found
+2025-11-18T13:37:14.836Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5499369808: 400: Bad Request: chat not found
+2025-11-18T13:37:17.429Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5533189497: 400: Bad Request: chat not found
+2025-11-18T13:37:18.502Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5573592641: 400: Bad Request: chat not found
+2025-11-18T13:37:19.555Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5577822240: 400: Bad Request: chat not found
+2025-11-18T13:37:20.870Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5612937968: 400: Bad Request: chat not found
+2025-11-18T13:37:22.533Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5635983203: 400: Bad Request: chat not found
+2025-11-18T13:37:24.099Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5648530667: 400: Bad Request: chat not found
+2025-11-18T13:37:25.841Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5677765300: 400: Bad Request: chat not found
+2025-11-18T13:37:26.826Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5683657742: 400: Bad Request: chat not found
+2025-11-18T13:37:27.782Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5689673004: 400: Bad Request: chat not found
+2025-11-18T13:37:28.691Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5692234630: 400: Bad Request: chat not found
+2025-11-18T13:37:29.578Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5708771488: 400: Bad Request: chat not found
+2025-11-18T13:37:31.038Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5726799152: 400: Bad Request: chat not found
+2025-11-18T13:37:32.896Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5732745808: 400: Bad Request: chat not found
+2025-11-18T13:37:33.798Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5737735091: 400: Bad Request: chat not found
+2025-11-18T13:37:35.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5744597552: 400: Bad Request: chat not found
+2025-11-18T13:37:35.563Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5756568585: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:37:36.494Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5776027011: 400: Bad Request: chat not found
+2025-11-18T13:37:37.972Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5812719475: 400: Bad Request: chat not found
+2025-11-18T13:37:39.335Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5850302060: 400: Bad Request: chat not found
+2025-11-18T13:37:40.521Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5882250447: 400: Bad Request: chat not found
+2025-11-18T13:37:42.379Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5902620437: 400: Bad Request: chat not found
+2025-11-18T13:37:44.188Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5920844499: 400: Bad Request: chat not found
+2025-11-18T13:37:45.049Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5931807034: 400: Bad Request: chat not found
+2025-11-18T13:37:45.977Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5941308498: 400: Bad Request: chat not found
+2025-11-18T13:37:46.970Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5956624761: 400: Bad Request: chat not found
+2025-11-18T13:37:47.832Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5987651227: 400: Bad Request: chat not found
+2025-11-18T13:37:48.765Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5988778935: 400: Bad Request: chat not found
+2025-11-18T13:37:49.648Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5991934270: 400: Bad Request: chat not found
+2025-11-18T13:37:50.908Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6021620704: 400: Bad Request: chat not found
+2025-11-18T13:37:52.542Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6026226487: 400: Bad Request: chat not found
+2025-11-18T13:37:53.466Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6074017116: 400: Bad Request: chat not found
+2025-11-18T13:37:53.928Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6075544586: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:37:54.358Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6083649512: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:37:55.346Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6084325890: 400: Bad Request: chat not found
+2025-11-18T13:37:56.701Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6132965725: 400: Bad Request: chat not found
+2025-11-18T13:37:58.583Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6143762878: 400: Bad Request: chat not found
+2025-11-18T13:38:01.078Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6171063737: 400: Bad Request: chat not found
+2025-11-18T13:38:02.326Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6207127602: 400: Bad Request: chat not found
+2025-11-18T13:38:03.283Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6212427015: 400: Bad Request: chat not found
+2025-11-18T13:38:05.211Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6267566097: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:08.081Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6320503561: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:09.459Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6322006831: 400: Bad Request: chat not found
+2025-11-18T13:38:10.683Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6323528575: 400: Bad Request: chat not found
+2025-11-18T13:38:11.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6329157945: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:38:12.711Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6336906399: 400: Bad Request: chat not found
+2025-11-18T13:38:13.558Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6338989750: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:14.916Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6340987858: 400: Bad Request: chat not found
+2025-11-18T13:38:16.931Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358011996: 400: Bad Request: chat not found
+2025-11-18T13:38:17.766Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6364444462: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:19.147Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6391789362: 400: Bad Request: chat not found
+2025-11-18T13:38:20.411Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6415330719: 400: Bad Request: chat not found
+2025-11-18T13:38:22.240Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422122285: 400: Bad Request: chat not found
+2025-11-18T13:38:22.989Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422415561: 400: Bad Request: chat not found
+2025-11-18T13:38:24.865Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6448380972: 400: Bad Request: chat not found
+2025-11-18T13:38:25.773Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6461362381: 400: Bad Request: chat not found
+2025-11-18T13:38:26.713Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6469466777: 400: Bad Request: chat not found
+2025-11-18T13:38:27.931Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6498783966: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:28.872Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6499204722: 400: Bad Request: chat not found
+2025-11-18T13:38:29.794Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6500579892: 400: Bad Request: chat not found
+2025-11-18T13:38:32.080Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6511444738: 400: Bad Request: chat not found
+2025-11-18T13:38:34.635Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6524575399: 400: Bad Request: chat not found
+2025-11-18T13:38:35.596Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6537586272: 400: Bad Request: chat not found
+2025-11-18T13:38:36.934Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6551574192: 400: Bad Request: chat not found
+2025-11-18T13:38:39.221Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6581289689: 400: Bad Request: chat not found
+2025-11-18T13:38:41.427Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6605578570: 400: Bad Request: chat not found
+2025-11-18T13:38:42.408Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6608443537: 400: Bad Request: chat not found
+2025-11-18T13:38:43.782Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6618089604: 400: Bad Request: chat not found
+2025-11-18T13:38:44.500Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6621869154: 400: Bad Request: chat not found
+2025-11-18T13:38:45.415Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6634381709: 400: Bad Request: chat not found
+2025-11-18T13:38:46.473Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6638403818: 400: Bad Request: chat not found
+2025-11-18T13:38:46.895Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6641812247: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:38:48.001Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6645712354: 400: Bad Request: chat not found
+2025-11-18T13:38:50.261Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6659321822: 400: Bad Request: chat not found
+2025-11-18T13:38:52.085Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6689451770: 400: Bad Request: chat not found
+2025-11-18T13:38:54.552Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6774906972: 400: Bad Request: chat not found
+2025-11-18T13:39:01.294Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6796507964: 400: Bad Request: chat not found
+2025-11-18T13:39:02.618Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6807236194: 400: Bad Request: chat not found
+2025-11-18T13:39:03.968Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6809100247: 400: Bad Request: chat not found
+2025-11-18T13:39:04.815Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6812816008: 400: Bad Request: chat not found
+2025-11-18T13:39:07.031Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6840133455: 400: Bad Request: chat not found
+2025-11-18T13:39:08.793Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6841665083: 400: Bad Request: chat not found
+2025-11-18T13:39:09.704Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6851034839: 400: Bad Request: chat not found
+2025-11-18T13:39:11.903Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6884448043: 400: Bad Request: chat not found
+2025-11-18T13:39:12.745Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917258039: 400: Bad Request: chat not found
+2025-11-18T13:39:13.698Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917361242: 400: Bad Request: chat not found
+2025-11-18T13:39:15.843Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6919694249: 400: Bad Request: chat not found
+2025-11-18T13:39:19.917Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7005503331: 400: Bad Request: chat not found
+2025-11-18T13:39:20.834Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7026497998: 400: Bad Request: chat not found
+2025-11-18T13:39:21.742Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7037464109: 400: Bad Request: chat not found
+2025-11-18T13:39:23.035Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7086433067: 400: Bad Request: chat not found
+2025-11-18T13:39:25.664Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7114541533: 400: Bad Request: chat not found
+2025-11-18T13:39:26.591Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7127089684: 400: Bad Request: chat not found
+2025-11-18T13:39:28.379Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7144440494: 400: Bad Request: chat not found
+2025-11-18T13:39:29.313Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7161146605: 400: Bad Request: chat not found
+2025-11-18T13:39:31.992Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7209791934: 400: Bad Request: chat not found
+2025-11-18T13:39:33.425Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7235459458: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:39:34.421Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7236195112: 400: Bad Request: chat not found
+2025-11-18T13:39:35.400Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7263409376: 400: Bad Request: chat not found
+2025-11-18T13:39:37.841Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324480648: 400: Bad Request: chat not found
+2025-11-18T13:39:39.804Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324869375: 400: Bad Request: chat not found
+2025-11-18T13:39:40.737Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7345303663: 400: Bad Request: chat not found
+2025-11-18T13:39:41.620Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7359524103: 400: Bad Request: chat not found
+2025-11-18T13:39:42.566Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7372917525: 400: Bad Request: chat not found
+2025-11-18T13:39:43.399Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7429386113: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:39:44.373Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7446881091: 400: Bad Request: chat not found
+2025-11-18T13:39:45.663Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7449627253: 400: Bad Request: chat not found
+2025-11-18T13:39:47.097Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7465370442: 400: Bad Request: chat not found
+2025-11-18T13:39:48.122Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7469879674: 400: Bad Request: chat not found
+2025-11-18T13:39:52.298Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7520860443: 400: Bad Request: chat not found
+2025-11-18T13:39:54.004Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7536174748: 400: Bad Request: chat not found
+2025-11-18T13:39:55.367Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7575211071: 400: Bad Request: chat not found
+2025-11-18T13:39:57.538Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7606124814: 400: Bad Request: chat not found
+2025-11-18T13:40:00.591Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7641892285: 400: Bad Request: chat not found
+2025-11-18T13:40:01.953Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7649633746: 400: Bad Request: chat not found
+2025-11-18T13:40:02.803Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7683622572: 400: Bad Request: chat not found
+2025-11-18T13:40:03.657Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7686667939: 400: Bad Request: chat not found
+2025-11-18T13:40:04.591Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7692401132: 400: Bad Request: chat not found
+2025-11-18T13:40:05.504Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7696416757: 400: Bad Request: chat not found
+2025-11-18T13:40:06.474Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7698439730: 400: Bad Request: chat not found
+2025-11-18T13:40:07.387Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7711356911: 400: Bad Request: chat not found
+2025-11-18T13:40:08.735Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7729095853: 400: Bad Request: chat not found
+2025-11-18T13:40:09.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7731683575: 400: Bad Request: chat not found
+2025-11-18T13:40:10.570Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7736989798: 400: Bad Request: chat not found
+2025-11-18T13:40:11.861Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7748551707: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:40:12.791Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7758150740: 400: Bad Request: chat not found
+2025-11-18T13:40:13.734Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7766811185: 400: Bad Request: chat not found
+2025-11-18T13:40:15.055Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7775219044: 400: Bad Request: chat not found
+2025-11-18T13:40:17.219Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7783468584: 400: Bad Request: chat not found
+2025-11-18T13:40:19.067Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7798647037: 400: Bad Request: chat not found
+2025-11-18T13:40:20.255Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7803540719: 400: Bad Request: chat not found
+2025-11-18T13:40:22.196Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7836564789: 400: Bad Request: chat not found
+2025-11-18T13:40:23.561Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7859353242: 400: Bad Request: chat not found
+2025-11-18T13:40:24.481Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7869274212: 400: Bad Request: chat not found
+2025-11-18T13:40:25.793Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7876172154: 400: Bad Request: chat not found
+2025-11-18T13:40:27.617Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7899457432: 400: Bad Request: chat not found
+2025-11-18T13:40:28.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7900982878: 400: Bad Request: chat not found
+2025-11-18T13:40:29.619Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7901116752: 400: Bad Request: chat not found
+2025-11-18T13:40:31.397Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7908924246: 400: Bad Request: chat not found
+2025-11-18T13:40:34.522Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7938011031: 400: Bad Request: chat not found
+2025-11-18T13:40:35.477Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7947782566: 400: Bad Request: chat not found
+2025-11-18T13:40:38.197Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7980141797: 400: Bad Request: chat not found
+2025-11-18T13:40:38.629Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7988769456: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-18T13:40:39.550Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7997124453: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:40:40.512Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8001507141: 400: Bad Request: chat not found
+2025-11-18T13:40:41.417Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8006484609: 400: Bad Request: chat not found
+2025-11-18T13:40:42.392Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8020720645: 400: Bad Request: chat not found
+2025-11-18T13:40:43.360Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8027295331: 400: Bad Request: chat not found
+2025-11-18T13:40:43.805Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8030645853: 403: Forbidden: bot was blocked by the user
+2025-11-18T13:40:45.155Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8045557438: 400: Bad Request: chat not found
+2025-11-18T13:40:46.057Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8058279999: 400: Bad Request: chat not found
+2025-11-18T13:40:47.817Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8076769650: 400: Bad Request: chat not found
+2025-11-18T13:40:49.144Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8084992536: 400: Bad Request: chat not found
+2025-11-18T13:40:51.925Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8156170687: 400: Bad Request: chat not found
+2025-11-18T13:40:52.795Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8194619339: 400: Bad Request: chat not found
+2025-11-18T13:40:56.680Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8219425355: 400: Bad Request: chat not found
+2025-11-18T13:40:57.559Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8223130730: 400: Bad Request: chat not found
+2025-11-18T13:40:59.325Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8233857919: 400: Bad Request: chat not found
+2025-11-18T13:41:00.626Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8245091705: 400: Bad Request: chat not found
+2025-11-18T13:41:02.043Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8263695329: 400: Bad Request: chat not found
+2025-11-18T13:41:03.428Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8275078685: 400: Bad Request: chat not found
+2025-11-18T13:41:04.816Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8283784758: 400: Bad Request: chat not found
+2025-11-18T13:41:07.733Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8328025636: 400: Bad Request: chat not found
+2025-11-18T13:41:08.709Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8359019535: 400: Bad Request: chat not found
+2025-11-18T13:41:11.311Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8383197264: 400: Bad Request: chat not found
+2025-11-18T13:41:12.701Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8389342449: 400: Bad Request: chat not found
+2025-11-18T13:41:13.604Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8396669354: 400: Bad Request: chat not found
+2025-11-18T13:41:15.108Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8422226418: 400: Bad Request: chat not found
+2025-11-18T13:41:15.976Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8427677868: 400: Bad Request: chat not found
+2025-11-18T13:41:17.277Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8429366256: 400: Bad Request: chat not found
+2025-11-18T13:41:19.009Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8435557899: 400: Bad Request: chat not found
+2025-11-19T01:13:09.911Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: can't parse entities: Unsupported start tag "b/" at byte offset 396
+2025-11-19T01:14:00.181Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: can't parse entities: Unsupported start tag "b/" at byte offset 396
+2025-11-19T01:15:21.958Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: can't parse entities: Unsupported start tag "b/" at byte offset 386
+2025-11-19T01:15:33.416Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: can't parse entities: Unsupported start tag "b/" at byte offset 386
+2025-11-19T01:21:15.454Z [ERROR]: Trial API failed for ssh on adiwidia.my.id: Request failed with status code 500
+2025-11-19T01:21:35.859Z [ERROR]: Trial API failed for ssh on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-19T01:21:48.524Z [ERROR]: Trial API failed for ssh on rahmarie.my.id: Request failed with status code 500
+2025-11-19T01:53:35.049Z [ERROR]: Trial API failed for ssh on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-19T01:54:06.275Z [ERROR]: Trial API failed for ssh on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-19T03:48:46.971Z [ERROR]: Trial API failed for ssh on arunika.biz.id: Request failed with status code 401
+2025-11-19T04:00:58.562Z [ERROR]: Error saat memulai bot: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-11-19T11:01:21.296Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 103084613: 400: Bad Request: chat not found
+2025-11-19T11:01:22.898Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 201914895: 400: Bad Request: chat not found
+2025-11-19T11:01:23.724Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 215957266: 400: Bad Request: chat not found
+2025-11-19T11:01:24.903Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 262030080: 400: Bad Request: chat not found
+2025-11-19T11:01:25.679Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 266101876: 400: Bad Request: chat not found
+2025-11-19T11:01:26.779Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 274582395: 400: Bad Request: chat not found
+2025-11-19T11:01:27.558Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 288247392: 400: Bad Request: chat not found
+2025-11-19T11:01:28.346Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 316497155: 400: Bad Request: chat not found
+2025-11-19T11:01:29.141Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 337788055: 400: Bad Request: chat not found
+2025-11-19T11:01:31.128Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 382607331: 400: Bad Request: chat not found
+2025-11-19T11:01:32.329Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 397190133: 400: Bad Request: chat not found
+2025-11-19T11:01:34.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 408864570: 400: Bad Request: chat not found
+2025-11-19T11:01:35.447Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 418961854: 400: Bad Request: chat not found
+2025-11-19T11:01:36.681Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 478738053: 400: Bad Request: chat not found
+2025-11-19T11:01:37.906Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 521248504: 400: Bad Request: chat not found
+2025-11-19T11:01:40.081Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 551845725: 400: Bad Request: chat not found
+2025-11-19T11:01:41.265Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 589998956: 400: Bad Request: chat not found
+2025-11-19T11:01:43.402Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 624903760: 400: Bad Request: chat not found
+2025-11-19T11:01:44.195Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 641238169: 400: Bad Request: chat not found
+2025-11-19T11:01:45.413Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 693472567: 400: Bad Request: chat not found
+2025-11-19T11:01:46.200Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 718333819: 400: Bad Request: chat not found
+2025-11-19T11:01:46.984Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 742679229: 400: Bad Request: chat not found
+2025-11-19T11:01:47.770Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 791436244: 400: Bad Request: chat not found
+2025-11-19T11:01:48.676Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 793401100: 400: Bad Request: chat not found
+2025-11-19T11:01:49.843Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 803307590: 400: Bad Request: chat not found
+2025-11-19T11:01:51.072Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 806715584: 400: Bad Request: chat not found
+2025-11-19T11:01:51.850Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 808184217: 400: Bad Request: chat not found
+2025-11-19T11:01:52.629Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 813761017: 400: Bad Request: chat not found
+2025-11-19T11:01:53.844Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 823414375: 400: Bad Request: chat not found
+2025-11-19T11:01:54.620Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 893680248: 400: Bad Request: chat not found
+2025-11-19T11:01:55.407Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 904169743: 400: Bad Request: chat not found
+2025-11-19T11:01:59.554Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 984331304: 400: Bad Request: chat not found
+2025-11-19T11:02:00.793Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1010934400: 400: Bad Request: chat not found
+2025-11-19T11:02:01.177Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1052794885: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:02:01.954Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1057674331: 400: Bad Request: chat not found
+2025-11-19T11:02:02.824Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1074003341: 400: Bad Request: chat not found
+2025-11-19T11:02:05.899Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1149212168: 400: Bad Request: chat not found
+2025-11-19T11:02:07.889Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1187999288: 400: Bad Request: chat not found
+2025-11-19T11:02:09.157Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1197982472: 400: Bad Request: chat not found
+2025-11-19T11:02:10.103Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1202200296: 400: Bad Request: chat not found
+2025-11-19T11:02:11.038Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1228693867: 400: Bad Request: chat not found
+2025-11-19T11:02:12.356Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1250676393: 400: Bad Request: chat not found
+2025-11-19T11:02:13.133Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1252840906: 400: Bad Request: chat not found
+2025-11-19T11:02:14.436Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1274477023: 400: Bad Request: chat not found
+2025-11-19T11:02:15.243Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1294583646: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:02:16.012Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1303823690: 400: Bad Request: chat not found
+2025-11-19T11:02:18.336Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1328452454: 400: Bad Request: chat not found
+2025-11-19T11:02:19.519Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1337630621: 400: Bad Request: chat not found
+2025-11-19T11:02:20.299Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1339500427: 400: Bad Request: chat not found
+2025-11-19T11:02:21.090Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1342327525: 400: Bad Request: chat not found
+2025-11-19T11:02:22.244Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1344149112: 400: Bad Request: chat not found
+2025-11-19T11:02:24.222Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1368385580: 400: Bad Request: chat not found
+2025-11-19T11:02:26.661Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1395156160: 400: Bad Request: chat not found
+2025-11-19T11:02:27.452Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1417954258: 400: Bad Request: chat not found
+2025-11-19T11:02:29.043Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1494687182: 400: Bad Request: chat not found
+2025-11-19T11:02:30.631Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1497136567: 400: Bad Request: chat not found
+2025-11-19T11:02:31.400Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1511618611: 400: Bad Request: chat not found
+2025-11-19T11:02:33.016Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1546021598: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:02:33.808Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1549572838: 400: Bad Request: chat not found
+2025-11-19T11:02:35.410Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1564275538: 400: Bad Request: chat not found
+2025-11-19T11:02:36.207Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1572796834: 400: Bad Request: chat not found
+2025-11-19T11:02:37.012Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1587522954: 400: Bad Request: chat not found
+2025-11-19T11:02:39.408Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1685020711: 400: Bad Request: chat not found
+2025-11-19T11:02:41.789Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1693261908: 400: Bad Request: chat not found
+2025-11-19T11:02:44.056Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1741349052: 400: Bad Request: chat not found
+2025-11-19T11:02:45.233Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1751010371: 400: Bad Request: chat not found
+2025-11-19T11:02:46.016Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1755090501: 400: Bad Request: chat not found
+2025-11-19T11:02:46.811Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1777161608: 400: Bad Request: chat not found
+2025-11-19T11:02:50.101Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1840774761: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:02:50.781Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2025-11-19T11:02:50.930Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1855099923: 400: Bad Request: chat not found
+2025-11-19T11:02:51.728Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1879266250: 400: Bad Request: chat not found
+2025-11-19T11:02:51.998Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1891849538: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-19T11:02:57.646Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1892801569: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-19T11:02:58.905Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1908273541: 400: Bad Request: chat not found
+2025-11-19T11:02:59.708Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1910271421: 400: Bad Request: chat not found
+2025-11-19T11:03:01.017Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1926304075: 400: Bad Request: chat not found
+2025-11-19T11:03:01.839Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1933571997: 400: Bad Request: chat not found
+2025-11-19T11:03:02.648Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1941721841: 400: Bad Request: chat not found
+2025-11-19T11:03:04.595Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1977394166: 400: Bad Request: chat not found
+2025-11-19T11:03:05.816Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1999190768: 400: Bad Request: chat not found
+2025-11-19T11:03:07.051Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2038077259: 400: Bad Request: chat not found
+2025-11-19T11:03:08.297Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2054188429: 400: Bad Request: chat not found
+2025-11-19T11:03:10.385Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2075823168: 400: Bad Request: chat not found
+2025-11-19T11:03:11.173Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2078535594: 400: Bad Request: chat not found
+2025-11-19T11:03:11.960Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2097559075: 400: Bad Request: chat not found
+2025-11-19T11:03:12.745Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2125648368: 400: Bad Request: chat not found
+2025-11-19T11:03:13.524Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2132162172: 400: Bad Request: chat not found
+2025-11-19T11:03:14.735Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5037794547: 400: Bad Request: chat not found
+2025-11-19T11:03:15.937Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5106869084: 400: Bad Request: chat not found
+2025-11-19T11:03:17.568Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5196590642: 400: Bad Request: chat not found
+2025-11-19T11:03:18.793Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5316122733: 400: Bad Request: chat not found
+2025-11-19T11:03:19.615Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5374567864: 400: Bad Request: chat not found
+2025-11-19T11:03:20.420Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5402572870: 400: Bad Request: chat not found
+2025-11-19T11:03:22.455Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5426619500: 400: Bad Request: chat not found
+2025-11-19T11:03:24.045Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5454149231: 400: Bad Request: chat not found
+2025-11-19T11:03:25.709Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5499369808: 400: Bad Request: chat not found
+2025-11-19T11:03:27.800Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5533189497: 400: Bad Request: chat not found
+2025-11-19T11:03:28.607Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5573592641: 400: Bad Request: chat not found
+2025-11-19T11:03:29.822Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5577822240: 400: Bad Request: chat not found
+2025-11-19T11:03:32.489Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5612937968: 400: Bad Request: chat not found
+2025-11-19T11:03:34.321Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5635983203: 400: Bad Request: chat not found
+2025-11-19T11:03:35.628Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5648530667: 400: Bad Request: chat not found
+2025-11-19T11:03:37.967Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5677765300: 400: Bad Request: chat not found
+2025-11-19T11:03:40.258Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5683657742: 400: Bad Request: chat not found
+2025-11-19T11:03:41.041Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5689673004: 400: Bad Request: chat not found
+2025-11-19T11:03:41.867Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5692234630: 400: Bad Request: chat not found
+2025-11-19T11:03:42.652Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5708771488: 400: Bad Request: chat not found
+2025-11-19T11:03:43.894Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5726799152: 400: Bad Request: chat not found
+2025-11-19T11:03:45.934Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5732745808: 400: Bad Request: chat not found
+2025-11-19T11:03:46.716Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5737735091: 400: Bad Request: chat not found
+2025-11-19T11:03:47.519Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5756568585: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:03:48.302Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5776027011: 400: Bad Request: chat not found
+2025-11-19T11:03:49.901Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5812719475: 400: Bad Request: chat not found
+2025-11-19T11:03:51.495Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5850302060: 400: Bad Request: chat not found
+2025-11-19T11:03:54.741Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5902620437: 400: Bad Request: chat not found
+2025-11-19T11:03:56.910Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5920844499: 400: Bad Request: chat not found
+2025-11-19T11:03:57.696Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5931807034: 400: Bad Request: chat not found
+2025-11-19T11:03:58.486Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5941308498: 400: Bad Request: chat not found
+2025-11-19T11:03:59.663Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5956624761: 400: Bad Request: chat not found
+2025-11-19T11:04:00.442Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5987651227: 400: Bad Request: chat not found
+2025-11-19T11:04:01.646Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5988778935: 400: Bad Request: chat not found
+2025-11-19T11:04:02.428Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5991934270: 400: Bad Request: chat not found
+2025-11-19T11:04:03.635Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6021620704: 400: Bad Request: chat not found
+2025-11-19T11:04:04.844Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6026226487: 400: Bad Request: chat not found
+2025-11-19T11:04:05.653Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6074017116: 400: Bad Request: chat not found
+2025-11-19T11:04:06.041Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6075544586: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:04:07.422Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6083649512: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:08.680Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6084325890: 400: Bad Request: chat not found
+2025-11-19T11:04:09.887Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6132965725: 400: Bad Request: chat not found
+2025-11-19T11:04:11.276Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6143762878: 400: Bad Request: chat not found
+2025-11-19T11:04:12.488Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6171063737: 400: Bad Request: chat not found
+2025-11-19T11:04:13.701Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6207127602: 400: Bad Request: chat not found
+2025-11-19T11:04:14.497Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6212427015: 400: Bad Request: chat not found
+2025-11-19T11:04:17.138Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6267566097: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:18.484Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6320503561: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:19.668Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6322006831: 400: Bad Request: chat not found
+2025-11-19T11:04:20.900Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6323528575: 400: Bad Request: chat not found
+2025-11-19T11:04:21.300Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6329157945: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:04:22.094Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6336906399: 400: Bad Request: chat not found
+2025-11-19T11:04:22.491Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6338989750: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:23.327Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6340987858: 400: Bad Request: chat not found
+2025-11-19T11:04:25.620Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358011996: 400: Bad Request: chat not found
+2025-11-19T11:04:26.007Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6364444462: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:27.198Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6391789362: 400: Bad Request: chat not found
+2025-11-19T11:04:28.004Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6415330719: 400: Bad Request: chat not found
+2025-11-19T11:04:30.055Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422122285: 400: Bad Request: chat not found
+2025-11-19T11:04:31.393Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422415561: 400: Bad Request: chat not found
+2025-11-19T11:04:36.220Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6448380972: 400: Bad Request: chat not found
+2025-11-19T11:04:37.010Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6461362381: 400: Bad Request: chat not found
+2025-11-19T11:04:38.583Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6469466777: 400: Bad Request: chat not found
+2025-11-19T11:04:39.363Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6498783966: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:40.133Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6499204722: 400: Bad Request: chat not found
+2025-11-19T11:04:41.327Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6500579892: 400: Bad Request: chat not found
+2025-11-19T11:04:42.908Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6511444738: 400: Bad Request: chat not found
+2025-11-19T11:04:45.277Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6524575399: 400: Bad Request: chat not found
+2025-11-19T11:04:46.075Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6537586272: 400: Bad Request: chat not found
+2025-11-19T11:04:47.264Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6551574192: 400: Bad Request: chat not found
+2025-11-19T11:04:48.865Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6581289689: 400: Bad Request: chat not found
+2025-11-19T11:04:50.850Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6605578570: 400: Bad Request: chat not found
+2025-11-19T11:04:51.620Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6608443537: 400: Bad Request: chat not found
+2025-11-19T11:04:52.809Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6618089604: 400: Bad Request: chat not found
+2025-11-19T11:04:53.611Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6621869154: 400: Bad Request: chat not found
+2025-11-19T11:04:54.403Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6634381709: 400: Bad Request: chat not found
+2025-11-19T11:04:55.186Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6638403818: 400: Bad Request: chat not found
+2025-11-19T11:04:55.571Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6641812247: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:04:56.396Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6645712354: 400: Bad Request: chat not found
+2025-11-19T11:04:57.981Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6659321822: 400: Bad Request: chat not found
+2025-11-19T11:04:59.162Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6689451770: 400: Bad Request: chat not found
+2025-11-19T11:05:01.167Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6774906972: 400: Bad Request: chat not found
+2025-11-19T11:05:02.127Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6796507964: 400: Bad Request: chat not found
+2025-11-19T11:05:04.077Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6807236194: 400: Bad Request: chat not found
+2025-11-19T11:05:04.846Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6809100247: 400: Bad Request: chat not found
+2025-11-19T11:05:06.018Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6812816008: 400: Bad Request: chat not found
+2025-11-19T11:05:07.674Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6840133455: 400: Bad Request: chat not found
+2025-11-19T11:05:08.450Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6841665083: 400: Bad Request: chat not found
+2025-11-19T11:05:09.238Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6851034839: 400: Bad Request: chat not found
+2025-11-19T11:05:10.943Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6884448043: 400: Bad Request: chat not found
+2025-11-19T11:05:11.723Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917258039: 400: Bad Request: chat not found
+2025-11-19T11:05:13.120Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917361242: 400: Bad Request: chat not found
+2025-11-19T11:05:15.108Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6919694249: 400: Bad Request: chat not found
+2025-11-19T11:05:17.932Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7005503331: 400: Bad Request: chat not found
+2025-11-19T11:05:18.699Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7026497998: 400: Bad Request: chat not found
+2025-11-19T11:05:19.470Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7037464109: 400: Bad Request: chat not found
+2025-11-19T11:05:20.253Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7086433067: 400: Bad Request: chat not found
+2025-11-19T11:05:23.422Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7114541533: 400: Bad Request: chat not found
+2025-11-19T11:05:24.220Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7127089684: 400: Bad Request: chat not found
+2025-11-19T11:05:25.395Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7144440494: 400: Bad Request: chat not found
+2025-11-19T11:05:26.163Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7161146605: 400: Bad Request: chat not found
+2025-11-19T11:05:28.886Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7209791934: 400: Bad Request: chat not found
+2025-11-19T11:05:30.494Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7235459458: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:05:31.253Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7236195112: 400: Bad Request: chat not found
+2025-11-19T11:05:32.446Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7263409376: 400: Bad Request: chat not found
+2025-11-19T11:05:33.997Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324480648: 400: Bad Request: chat not found
+2025-11-19T11:05:34.771Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324869375: 400: Bad Request: chat not found
+2025-11-19T11:05:35.532Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7345303663: 400: Bad Request: chat not found
+2025-11-19T11:05:36.686Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7372917525: 400: Bad Request: chat not found
+2025-11-19T11:05:37.486Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7429386113: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:05:38.249Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7446881091: 400: Bad Request: chat not found
+2025-11-19T11:05:39.418Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7449627253: 400: Bad Request: chat not found
+2025-11-19T11:05:40.619Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7465370442: 400: Bad Request: chat not found
+2025-11-19T11:05:42.166Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7469879674: 400: Bad Request: chat not found
+2025-11-19T11:05:44.894Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7520860443: 400: Bad Request: chat not found
+2025-11-19T11:05:46.532Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7536174748: 400: Bad Request: chat not found
+2025-11-19T11:05:47.717Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7575211071: 400: Bad Request: chat not found
+2025-11-19T11:05:49.678Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7606124814: 400: Bad Request: chat not found
+2025-11-19T11:05:52.308Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7641892285: 400: Bad Request: chat not found
+2025-11-19T11:05:53.684Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7649633746: 400: Bad Request: chat not found
+2025-11-19T11:05:54.570Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7683622572: 400: Bad Request: chat not found
+2025-11-19T11:05:55.464Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7686667939: 400: Bad Request: chat not found
+2025-11-19T11:05:56.313Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7692401132: 400: Bad Request: chat not found
+2025-11-19T11:05:57.669Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7696416757: 400: Bad Request: chat not found
+2025-11-19T11:05:58.700Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7698439730: 400: Bad Request: chat not found
+2025-11-19T11:05:59.863Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7711356911: 400: Bad Request: chat not found
+2025-11-19T11:06:00.623Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7729095853: 400: Bad Request: chat not found
+2025-11-19T11:06:01.403Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7731683575: 400: Bad Request: chat not found
+2025-11-19T11:06:02.168Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7736989798: 400: Bad Request: chat not found
+2025-11-19T11:06:03.443Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7748551707: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:06:04.210Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7758150740: 400: Bad Request: chat not found
+2025-11-19T11:06:05.378Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7766811185: 400: Bad Request: chat not found
+2025-11-19T11:06:06.155Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7775219044: 400: Bad Request: chat not found
+2025-11-19T11:06:08.086Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7783468584: 400: Bad Request: chat not found
+2025-11-19T11:06:10.010Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7798647037: 400: Bad Request: chat not found
+2025-11-19T11:06:10.769Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7803540719: 400: Bad Request: chat not found
+2025-11-19T11:06:12.328Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7836564789: 400: Bad Request: chat not found
+2025-11-19T11:06:13.479Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7859353242: 400: Bad Request: chat not found
+2025-11-19T11:06:14.268Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7869274212: 400: Bad Request: chat not found
+2025-11-19T11:06:15.029Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7876172154: 400: Bad Request: chat not found
+2025-11-19T11:06:16.191Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7899457432: 400: Bad Request: chat not found
+2025-11-19T11:06:16.969Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7900982878: 400: Bad Request: chat not found
+2025-11-19T11:06:17.744Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7901116752: 400: Bad Request: chat not found
+2025-11-19T11:06:20.475Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7938011031: 400: Bad Request: chat not found
+2025-11-19T11:06:21.234Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7947782566: 400: Bad Request: chat not found
+2025-11-19T11:06:23.165Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7980141797: 400: Bad Request: chat not found
+2025-11-19T11:06:23.536Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7988769456: 403: Forbidden: bot can't initiate conversation with a user
+2025-11-19T11:06:23.910Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7997124453: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:06:24.672Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8001507141: 400: Bad Request: chat not found
+2025-11-19T11:06:25.430Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8006484609: 400: Bad Request: chat not found
+2025-11-19T11:06:26.190Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8020720645: 400: Bad Request: chat not found
+2025-11-19T11:06:26.945Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8027295331: 400: Bad Request: chat not found
+2025-11-19T11:06:27.336Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8030645853: 403: Forbidden: bot was blocked by the user
+2025-11-19T11:06:28.487Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8045557438: 400: Bad Request: chat not found
+2025-11-19T11:06:29.670Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8058279999: 400: Bad Request: chat not found
+2025-11-19T11:06:31.297Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8076769650: 400: Bad Request: chat not found
+2025-11-19T11:06:32.060Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8084992536: 400: Bad Request: chat not found
+2025-11-19T11:06:34.942Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8156170687: 400: Bad Request: chat not found
+2025-11-19T11:06:35.765Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8194619339: 400: Bad Request: chat not found
+2025-11-19T11:06:38.256Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8219425355: 400: Bad Request: chat not found
+2025-11-19T11:06:39.027Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8223130730: 400: Bad Request: chat not found
+2025-11-19T11:06:40.203Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8233857919: 400: Bad Request: chat not found
+2025-11-19T11:06:41.783Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8245091705: 400: Bad Request: chat not found
+2025-11-19T11:06:42.991Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8263695329: 400: Bad Request: chat not found
+2025-11-19T11:06:44.027Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8275078685: 400: Bad Request: chat not found
+2025-11-19T11:06:44.801Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8283784758: 400: Bad Request: chat not found
+2025-11-19T11:06:47.116Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8328025636: 400: Bad Request: chat not found
+2025-11-19T11:06:47.980Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8359019535: 400: Bad Request: chat not found
+2025-11-19T11:06:49.537Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8383197264: 400: Bad Request: chat not found
+2025-11-19T11:06:50.297Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8389342449: 400: Bad Request: chat not found
+2025-11-19T11:06:51.060Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8396669354: 400: Bad Request: chat not found
+2025-11-19T11:06:52.285Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8422226418: 400: Bad Request: chat not found
+2025-11-19T11:06:53.044Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8427677868: 400: Bad Request: chat not found
+2025-11-19T11:06:53.804Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8429366256: 400: Bad Request: chat not found
+2025-11-19T11:06:55.006Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8435557899: 400: Bad Request: chat not found
+2025-11-19T14:20:37.753Z [ERROR]: Failed to get server details for ID 5: Not found
+2025-11-19T14:21:18.245Z [ERROR]: Trial API failed for trojan on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-19T14:21:34.287Z [ERROR]: Trial API failed for trojan on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-19T14:21:34.566Z [ERROR]: Trial API failed for trojan on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-20T13:43:38.070Z [ERROR]: ❌ Error checking Pakasir status:
+2025-11-21T00:18:15.138Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-21T17:08:54.999Z [ERROR]: ❌ Gagal tampilkan server trial untuk ssh:
+2025-11-21T17:08:55.775Z [ERROR]: ❌ Gagal tampilkan server trial untuk ssh:
+2025-11-22T08:34:41.326Z [ERROR]: Error saat memulai bot: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-22T09:38:38.460Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-11-22T09:38:53.641Z [ERROR]: Error saat memulai bot: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-22T10:17:09.328Z [ERROR]: Error saat memulai bot: request to https://api.telegram.org/bot8364036590:[REDACTED]/getMe failed, reason: 
+2025-11-22T10:20:04.429Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-11-22T14:46:32.045Z [ERROR]: Error saat generate Pakasir Payment (Manual Axios): timeout of 10000ms exceeded
+2025-11-22T14:46:32.048Z [ERROR]: ❌ Error creating Pakasir payment:
+2025-11-22T15:58:18.952Z [ERROR]: Failed to notify admin group: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-22T15:59:00.076Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-22T15:59:04.219Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-22T16:22:16.490Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-23T09:58:17.528Z [ERROR]: ❌ Error checking Pakasir status:
+2025-11-23T09:58:40.769Z [ERROR]: ❌ Error checking Pakasir status:
+2025-11-23T11:32:57.605Z [ERROR]: Error saat memulai bot: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-11-23T21:24:24.877Z [ERROR]: Error checking channel membership for 8118068872 in @tunnelftdor:
+2025-11-24T10:09:06.984Z [ERROR]: Failed to notify admin group: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-24T10:10:16.153Z [ERROR]: Failed to notify admin group about create: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-24T23:25:10.692Z [ERROR]: Failed to get server details for ID 5: Not found
+2025-11-25T03:04:19.722Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:04:24.443Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:05:21.609Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:05:26.681Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:05:59.528Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:06:01.928Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:06:06.137Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:06:06.289Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:06:06.523Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T03:06:34.569Z [ERROR]: Error saat generate Pakasir Payment (Manual Axios): timeout of 10000ms exceeded
+2025-11-25T03:06:34.571Z [ERROR]: ❌ Error creating Pakasir payment:
+2025-11-25T06:37:46.361Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-25T07:19:16.671Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 103084613: 400: Bad Request: chat not found
+2025-11-25T07:19:18.564Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 201914895: 400: Bad Request: chat not found
+2025-11-25T07:19:19.251Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 215957266: 400: Bad Request: chat not found
+2025-11-25T07:19:20.420Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 262030080: 400: Bad Request: chat not found
+2025-11-25T07:19:21.580Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 266101876: 400: Bad Request: chat not found
+2025-11-25T07:19:22.278Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 274582395: 400: Bad Request: chat not found
+2025-11-25T07:19:23.034Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 288247392: 400: Bad Request: chat not found
+2025-11-25T07:19:23.866Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 316497155: 400: Bad Request: chat not found
+2025-11-25T07:19:25.060Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 318589880: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:19:28.856Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 382607331: 400: Bad Request: chat not found
+2025-11-25T07:19:30.095Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 397190133: 400: Bad Request: chat not found
+2025-11-25T07:19:30.812Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 408864570: 400: Bad Request: chat not found
+2025-11-25T07:19:31.568Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 418961854: 400: Bad Request: chat not found
+2025-11-25T07:19:33.319Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 478738053: 400: Bad Request: chat not found
+2025-11-25T07:19:34.576Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 521248504: 400: Bad Request: chat not found
+2025-11-25T07:19:34.992Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 534135058: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:19:35.543Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 545509152: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:19:37.125Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 551845725: 400: Bad Request: chat not found
+2025-11-25T07:19:38.379Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 589998956: 400: Bad Request: chat not found
+2025-11-25T07:19:40.028Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 624903760: 400: Bad Request: chat not found
+2025-11-25T07:19:42.070Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 641238169: 400: Bad Request: chat not found
+2025-11-25T07:19:43.699Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 693472567: 400: Bad Request: chat not found
+2025-11-25T07:19:45.380Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 718333819: 400: Bad Request: chat not found
+2025-11-25T07:19:46.612Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 791436244: 400: Bad Request: chat not found
+2025-11-25T07:19:47.309Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 793401100: 400: Bad Request: chat not found
+2025-11-25T07:19:52.035Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 794008102: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:19:53.354Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 803307590: 400: Bad Request: chat not found
+2025-11-25T07:19:54.253Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 806715584: 400: Bad Request: chat not found
+2025-11-25T07:19:55.229Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 808184217: 400: Bad Request: chat not found
+2025-11-25T07:19:57.070Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 813761017: 400: Bad Request: chat not found
+2025-11-25T07:19:58.722Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 823414375: 400: Bad Request: chat not found
+2025-11-25T07:20:00.341Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 893680248: 400: Bad Request: chat not found
+2025-11-25T07:20:01.305Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 904169743: 400: Bad Request: chat not found
+2025-11-25T07:20:06.277Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 984331304: 400: Bad Request: chat not found
+2025-11-25T07:20:07.212Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1010934400: 400: Bad Request: chat not found
+2025-11-25T07:20:08.280Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1052794885: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:20:09.269Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1057674331: 400: Bad Request: chat not found
+2025-11-25T07:20:10.737Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1074003341: 400: Bad Request: chat not found
+2025-11-25T07:20:18.185Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1149212168: 400: Bad Request: chat not found
+2025-11-25T07:20:20.804Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1187999288: 400: Bad Request: chat not found
+2025-11-25T07:20:21.654Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1197982472: 400: Bad Request: chat not found
+2025-11-25T07:20:22.613Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1202200296: 400: Bad Request: chat not found
+2025-11-25T07:20:23.531Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1228693867: 400: Bad Request: chat not found
+2025-11-25T07:20:25.569Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1250676393: 400: Bad Request: chat not found
+2025-11-25T07:20:26.590Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1252840906: 400: Bad Request: chat not found
+2025-11-25T07:20:28.218Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1274477023: 400: Bad Request: chat not found
+2025-11-25T07:20:31.177Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1294583646: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:20:32.090Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1303823690: 400: Bad Request: chat not found
+2025-11-25T07:20:33.769Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1328452454: 400: Bad Request: chat not found
+2025-11-25T07:20:36.457Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1337630621: 400: Bad Request: chat not found
+2025-11-25T07:20:37.877Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1339500427: 400: Bad Request: chat not found
+2025-11-25T07:20:38.779Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1342327525: 400: Bad Request: chat not found
+2025-11-25T07:20:39.850Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1344149112: 400: Bad Request: chat not found
+2025-11-25T07:20:44.731Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1368385580: 400: Bad Request: chat not found
+2025-11-25T07:20:48.440Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1395156160: 400: Bad Request: chat not found
+2025-11-25T07:20:49.178Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2025-11-25T07:20:49.317Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1417954258: 400: Bad Request: chat not found
+2025-11-25T07:20:50.030Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1419484538: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:20:52.415Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1494687182: 400: Bad Request: chat not found
+2025-11-25T07:20:53.233Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1497136567: 400: Bad Request: chat not found
+2025-11-25T07:20:55.053Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1511618611: 400: Bad Request: chat not found
+2025-11-25T07:20:57.529Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1546021598: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:20:58.504Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1549572838: 400: Bad Request: chat not found
+2025-11-25T07:21:00.610Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1564275538: 400: Bad Request: chat not found
+2025-11-25T07:21:01.548Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1572796834: 400: Bad Request: chat not found
+2025-11-25T07:21:02.512Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1587522954: 400: Bad Request: chat not found
+2025-11-25T07:21:07.307Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1685020711: 400: Bad Request: chat not found
+2025-11-25T07:21:08.275Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1693261908: 400: Bad Request: chat not found
+2025-11-25T07:21:11.849Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1741349052: 400: Bad Request: chat not found
+2025-11-25T07:21:12.816Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1751010371: 400: Bad Request: chat not found
+2025-11-25T07:21:13.927Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1755090501: 400: Bad Request: chat not found
+2025-11-25T07:21:14.950Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1777161608: 400: Bad Request: chat not found
+2025-11-25T07:21:19.913Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1840774761: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:21:21.137Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1855099923: 400: Bad Request: chat not found
+2025-11-25T07:21:22.506Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1879266250: 400: Bad Request: chat not found
+2025-11-25T07:21:24.122Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1892801569: 400: Bad Request: chat not found
+2025-11-25T07:21:25.117Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1908273541: 400: Bad Request: chat not found
+2025-11-25T07:21:26.136Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1910271421: 400: Bad Request: chat not found
+2025-11-25T07:21:27.146Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1926304075: 400: Bad Request: chat not found
+2025-11-25T07:21:28.033Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1933571997: 400: Bad Request: chat not found
+2025-11-25T07:21:29.550Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1941721841: 400: Bad Request: chat not found
+2025-11-25T07:21:32.414Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1977394166: 400: Bad Request: chat not found
+2025-11-25T07:21:34.491Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1999190768: 400: Bad Request: chat not found
+2025-11-25T07:21:36.547Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2038077259: 400: Bad Request: chat not found
+2025-11-25T07:21:37.732Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2054188429: 400: Bad Request: chat not found
+2025-11-25T07:21:40.384Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2075823168: 400: Bad Request: chat not found
+2025-11-25T07:21:41.296Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2078535594: 400: Bad Request: chat not found
+2025-11-25T07:21:43.324Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2125648368: 400: Bad Request: chat not found
+2025-11-25T07:21:44.293Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2132162172: 400: Bad Request: chat not found
+2025-11-25T07:21:45.928Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5037794547: 400: Bad Request: chat not found
+2025-11-25T07:21:49.125Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5106869084: 400: Bad Request: chat not found
+2025-11-25T07:21:52.321Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5196590642: 400: Bad Request: chat not found
+2025-11-25T07:21:54.279Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5316122733: 400: Bad Request: chat not found
+2025-11-25T07:21:55.877Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5374567864: 400: Bad Request: chat not found
+2025-11-25T07:21:56.744Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5402572870: 400: Bad Request: chat not found
+2025-11-25T07:22:01.987Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5426619500: 400: Bad Request: chat not found
+2025-11-25T07:22:03.643Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5454149231: 400: Bad Request: chat not found
+2025-11-25T07:22:07.572Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5499369808: 400: Bad Request: chat not found
+2025-11-25T07:22:11.933Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5533189497: 400: Bad Request: chat not found
+2025-11-25T07:22:12.982Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5573592641: 400: Bad Request: chat not found
+2025-11-25T07:22:13.861Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5577822240: 400: Bad Request: chat not found
+2025-11-25T07:22:16.413Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5612937968: 400: Bad Request: chat not found
+2025-11-25T07:22:19.240Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5635983203: 400: Bad Request: chat not found
+2025-11-25T07:22:21.611Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5648530667: 400: Bad Request: chat not found
+2025-11-25T07:22:23.972Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5677765300: 400: Bad Request: chat not found
+2025-11-25T07:22:24.850Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5683657742: 400: Bad Request: chat not found
+2025-11-25T07:22:25.803Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5689673004: 400: Bad Request: chat not found
+2025-11-25T07:22:26.704Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5692234630: 400: Bad Request: chat not found
+2025-11-25T07:22:27.676Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5708771488: 400: Bad Request: chat not found
+2025-11-25T07:22:31.771Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5732745808: 400: Bad Request: chat not found
+2025-11-25T07:22:33.219Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5737735091: 400: Bad Request: chat not found
+2025-11-25T07:22:34.808Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5756568585: 400: Bad Request: chat not found
+2025-11-25T07:22:36.163Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5776027011: 400: Bad Request: chat not found
+2025-11-25T07:22:37.806Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5812719475: 400: Bad Request: chat not found
+2025-11-25T07:22:42.318Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5850302060: 400: Bad Request: chat not found
+2025-11-25T07:22:47.051Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5902620437: 400: Bad Request: chat not found
+2025-11-25T07:22:48.630Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5920844499: 400: Bad Request: chat not found
+2025-11-25T07:22:50.375Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5931807034: 400: Bad Request: chat not found
+2025-11-25T07:22:52.051Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5941308498: 400: Bad Request: chat not found
+2025-11-25T07:22:53.702Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5956624761: 400: Bad Request: chat not found
+2025-11-25T07:22:54.734Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5987651227: 400: Bad Request: chat not found
+2025-11-25T07:22:55.544Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5988778935: 400: Bad Request: chat not found
+2025-11-25T07:22:56.417Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5991934270: 400: Bad Request: chat not found
+2025-11-25T07:22:58.083Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6021620704: 400: Bad Request: chat not found
+2025-11-25T07:23:00.547Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6026226487: 400: Bad Request: chat not found
+2025-11-25T07:23:02.200Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6074017116: 400: Bad Request: chat not found
+2025-11-25T07:23:03.126Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6075544586: 400: Bad Request: chat not found
+2025-11-25T07:23:04.692Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6083649512: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:23:05.578Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6084325890: 400: Bad Request: chat not found
+2025-11-25T07:23:08.536Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6132965725: 400: Bad Request: chat not found
+2025-11-25T07:23:10.381Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6143762878: 400: Bad Request: chat not found
+2025-11-25T07:23:12.475Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6171063737: 400: Bad Request: chat not found
+2025-11-25T07:23:14.573Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6207127602: 400: Bad Request: chat not found
+2025-11-25T07:23:15.430Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6212427015: 400: Bad Request: chat not found
+2025-11-25T07:23:19.953Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6267566097: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:23:22.613Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6320503561: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:23:24.484Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6322006831: 400: Bad Request: chat not found
+2025-11-25T07:23:25.518Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6323528575: 400: Bad Request: chat not found
+2025-11-25T07:23:26.434Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6329157945: 400: Bad Request: chat not found
+2025-11-25T07:23:27.409Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6336906399: 400: Bad Request: chat not found
+2025-11-25T07:23:28.902Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6340987858: 400: Bad Request: chat not found
+2025-11-25T07:23:31.575Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358011996: 400: Bad Request: chat not found
+2025-11-25T07:23:33.860Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6364444462: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:23:36.253Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6391789362: 400: Bad Request: chat not found
+2025-11-25T07:23:37.930Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6415330719: 400: Bad Request: chat not found
+2025-11-25T07:23:40.094Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422122285: 400: Bad Request: chat not found
+2025-11-25T07:23:40.923Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422415561: 400: Bad Request: chat not found
+2025-11-25T07:23:44.912Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6448380972: 400: Bad Request: chat not found
+2025-11-25T07:23:46.192Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6461362381: 400: Bad Request: chat not found
+2025-11-25T07:23:47.128Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6469466777: 400: Bad Request: chat not found
+2025-11-25T07:23:48.494Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6498783966: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:23:49.337Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6499204722: 400: Bad Request: chat not found
+2025-11-25T07:23:53.615Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6511444738: 400: Bad Request: chat not found
+2025-11-25T07:23:59.525Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6524575399: 400: Bad Request: chat not found
+2025-11-25T07:24:00.417Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6537586272: 400: Bad Request: chat not found
+2025-11-25T07:24:02.004Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6551574192: 400: Bad Request: chat not found
+2025-11-25T07:24:07.120Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6581289689: 400: Bad Request: chat not found
+2025-11-25T07:24:09.613Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6605578570: 400: Bad Request: chat not found
+2025-11-25T07:24:10.583Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6608443537: 400: Bad Request: chat not found
+2025-11-25T07:24:12.221Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6618089604: 400: Bad Request: chat not found
+2025-11-25T07:24:13.648Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6621869154: 400: Bad Request: chat not found
+2025-11-25T07:24:14.968Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6634381709: 400: Bad Request: chat not found
+2025-11-25T07:24:15.846Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6638403818: 400: Bad Request: chat not found
+2025-11-25T07:24:16.653Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6641812247: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:24:17.871Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6645712354: 400: Bad Request: chat not found
+2025-11-25T07:24:22.293Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6659321822: 400: Bad Request: chat not found
+2025-11-25T07:24:25.554Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6689451770: 400: Bad Request: chat not found
+2025-11-25T07:24:29.098Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6774906972: 400: Bad Request: chat not found
+2025-11-25T07:24:30.025Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6796507964: 400: Bad Request: chat not found
+2025-11-25T07:24:32.592Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6807236194: 400: Bad Request: chat not found
+2025-11-25T07:24:35.417Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6809100247: 400: Bad Request: chat not found
+2025-11-25T07:24:53.189Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6812816008: 400: Bad Request: chat not found
+2025-11-25T07:24:55.500Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6840133455: 400: Bad Request: chat not found
+2025-11-25T07:24:56.421Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6841665083: 400: Bad Request: chat not found
+2025-11-25T07:24:57.812Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6851034839: 400: Bad Request: chat not found
+2025-11-25T07:25:01.425Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6884448043: 400: Bad Request: chat not found
+2025-11-25T07:25:07.475Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917258039: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-25T07:25:09.241Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917361242: 400: Bad Request: chat not found
+2025-11-25T07:25:12.162Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6919694249: 400: Bad Request: chat not found
+2025-11-25T07:25:16.459Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7005503331: 400: Bad Request: chat not found
+2025-11-25T07:25:17.756Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7026497998: 400: Bad Request: chat not found
+2025-11-25T07:25:19.076Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7037464109: 400: Bad Request: chat not found
+2025-11-25T07:25:19.988Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7086433067: 400: Bad Request: chat not found
+2025-11-25T07:25:23.449Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7114541533: 400: Bad Request: chat not found
+2025-11-25T07:25:24.503Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7127089684: 400: Bad Request: chat not found
+2025-11-25T07:25:27.452Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7144440494: 400: Bad Request: chat not found
+2025-11-25T07:25:28.850Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7161146605: 400: Bad Request: chat not found
+2025-11-25T07:25:32.577Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7209791934: 400: Bad Request: chat not found
+2025-11-25T07:25:35.221Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7235459458: 400: Bad Request: chat not found
+2025-11-25T07:25:36.000Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7236195112: 400: Bad Request: chat not found
+2025-11-25T07:25:37.276Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7263409376: 400: Bad Request: chat not found
+2025-11-25T07:25:40.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324480648: 400: Bad Request: chat not found
+2025-11-25T07:25:41.113Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324869375: 400: Bad Request: chat not found
+2025-11-25T07:25:42.997Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7345303663: 400: Bad Request: chat not found
+2025-11-25T07:25:44.658Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7372917525: 400: Bad Request: chat not found
+2025-11-25T07:25:46.107Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7429386113: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:25:47.089Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7446881091: 400: Bad Request: chat not found
+2025-11-25T07:25:48.408Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7449627253: 400: Bad Request: chat not found
+2025-11-25T07:25:50.096Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7465370442: 400: Bad Request: chat not found
+2025-11-25T07:25:51.062Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7469879674: 400: Bad Request: chat not found
+2025-11-25T07:25:56.307Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7520860443: 400: Bad Request: chat not found
+2025-11-25T07:25:58.361Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7536174748: 400: Bad Request: chat not found
+2025-11-25T07:26:00.361Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7575211071: 400: Bad Request: chat not found
+2025-11-25T07:26:04.778Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7606124814: 400: Bad Request: chat not found
+2025-11-25T07:26:10.229Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7641892285: 400: Bad Request: chat not found
+2025-11-25T07:26:11.823Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7649633746: 400: Bad Request: chat not found
+2025-11-25T07:26:13.410Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7683622572: 400: Bad Request: chat not found
+2025-11-25T07:26:14.202Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7686667939: 400: Bad Request: chat not found
+2025-11-25T07:26:14.957Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7692401132: 400: Bad Request: chat not found
+2025-11-25T07:26:15.700Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7696416757: 400: Bad Request: chat not found
+2025-11-25T07:26:16.893Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7698439730: 400: Bad Request: chat not found
+2025-11-25T07:26:17.750Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7711356911: 400: Bad Request: chat not found
+2025-11-25T07:26:18.745Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7729095853: 400: Bad Request: chat not found
+2025-11-25T07:26:20.312Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7731683575: 400: Bad Request: chat not found
+2025-11-25T07:26:21.264Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7736989798: 400: Bad Request: chat not found
+2025-11-25T07:26:23.680Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7748551707: 400: Bad Request: chat not found
+2025-11-25T07:26:24.586Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7758150740: 400: Bad Request: chat not found
+2025-11-25T07:26:25.590Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7766811185: 400: Bad Request: chat not found
+2025-11-25T07:26:27.281Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7775219044: 400: Bad Request: chat not found
+2025-11-25T07:26:28.917Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7783468584: 400: Bad Request: chat not found
+2025-11-25T07:26:30.594Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7798647037: 400: Bad Request: chat not found
+2025-11-25T07:26:31.678Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7803540719: 400: Bad Request: chat not found
+2025-11-25T07:26:34.080Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7836564789: 400: Bad Request: chat not found
+2025-11-25T07:26:35.782Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7859353242: 400: Bad Request: chat not found
+2025-11-25T07:26:36.717Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7869274212: 400: Bad Request: chat not found
+2025-11-25T07:26:38.488Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7876172154: 400: Bad Request: chat not found
+2025-11-25T07:26:39.466Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7899457432: 400: Bad Request: chat not found
+2025-11-25T07:26:40.398Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7900982878: 400: Bad Request: chat not found
+2025-11-25T07:26:41.319Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7901116752: 400: Bad Request: chat not found
+2025-11-25T07:26:43.778Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7908924246: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:26:45.903Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7938011031: 400: Bad Request: chat not found
+2025-11-25T07:26:46.837Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7947782566: 400: Bad Request: chat not found
+2025-11-25T07:26:47.121Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7954613054: request to https://api.telegram.org/bot8364036590:[REDACTED]/sendMessage failed, reason: 
+2025-11-25T07:26:49.280Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7980141797: 400: Bad Request: chat not found
+2025-11-25T07:26:50.470Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7988769456: 400: Bad Request: chat not found
+2025-11-25T07:26:51.073Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7997124453: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:26:52.485Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8001507141: 400: Bad Request: chat not found
+2025-11-25T07:26:54.220Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8020720645: 400: Bad Request: chat not found
+2025-11-25T07:26:55.720Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8030645853: 403: Forbidden: bot was blocked by the user
+2025-11-25T07:26:58.727Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8045557438: 400: Bad Request: chat not found
+2025-11-25T07:27:00.782Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8058279999: 400: Bad Request: chat not found
+2025-11-25T07:27:03.223Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8076769650: 400: Bad Request: chat not found
+2025-11-25T07:27:04.592Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8084992536: 400: Bad Request: chat not found
+2025-11-25T07:27:08.765Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8156170687: 400: Bad Request: chat not found
+2025-11-25T07:27:10.277Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8194619339: 400: Bad Request: chat not found
+2025-11-25T07:27:13.134Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8219425355: 400: Bad Request: chat not found
+2025-11-25T07:27:14.136Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8223130730: 400: Bad Request: chat not found
+2025-11-25T07:27:15.978Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8233857919: 400: Bad Request: chat not found
+2025-11-25T07:27:18.385Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8245091705: 400: Bad Request: chat not found
+2025-11-25T07:27:19.799Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8263695329: 400: Bad Request: chat not found
+2025-11-25T07:27:21.285Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8275078685: 400: Bad Request: chat not found
+2025-11-25T07:27:22.027Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8283784758: 400: Bad Request: chat not found
+2025-11-25T07:27:25.843Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8328025636: 400: Bad Request: chat not found
+2025-11-25T07:27:27.238Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8359019535: 400: Bad Request: chat not found
+2025-11-25T07:27:29.869Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8383197264: 400: Bad Request: chat not found
+2025-11-25T07:27:30.778Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8389342449: 400: Bad Request: chat not found
+2025-11-25T07:27:32.390Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8396669354: 400: Bad Request: chat not found
+2025-11-25T07:27:34.316Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8427677868: 400: Bad Request: chat not found
+2025-11-25T07:27:35.198Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8429366256: 400: Bad Request: chat not found
+2025-11-25T07:27:37.254Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8435557899: 400: Bad Request: chat not found
+2025-11-25T12:13:24.004Z [ERROR]: Failed to get server details for ID 6: Not found
+2025-11-25T14:25:09.614Z [ERROR]: Trial API failed for vless on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-27T00:06:55.258Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 103084613: 400: Bad Request: chat not found
+2025-11-27T00:06:56.323Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 201914895: 400: Bad Request: chat not found
+2025-11-27T00:06:57.009Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 215957266: 400: Bad Request: chat not found
+2025-11-27T00:06:58.061Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 262030080: 400: Bad Request: chat not found
+2025-11-27T00:06:58.743Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 266101876: 400: Bad Request: chat not found
+2025-11-27T00:06:59.416Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 274582395: 400: Bad Request: chat not found
+2025-11-27T00:07:00.090Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 288247392: 400: Bad Request: chat not found
+2025-11-27T00:07:00.768Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 316497155: 400: Bad Request: chat not found
+2025-11-27T00:07:01.110Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 318589880: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:03.693Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 382607331: 400: Bad Request: chat not found
+2025-11-27T00:07:04.755Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 397190133: 400: Bad Request: chat not found
+2025-11-27T00:07:05.438Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 408864570: 400: Bad Request: chat not found
+2025-11-27T00:07:06.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 418961854: 400: Bad Request: chat not found
+2025-11-27T00:07:07.174Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 478738053: 400: Bad Request: chat not found
+2025-11-27T00:07:08.241Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 521248504: 400: Bad Request: chat not found
+2025-11-27T00:07:08.593Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 534135058: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:08.939Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 545509152: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:09.629Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 551845725: 400: Bad Request: chat not found
+2025-11-27T00:07:10.692Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 589998956: 400: Bad Request: chat not found
+2025-11-27T00:07:11.736Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 624903760: 400: Bad Request: chat not found
+2025-11-27T00:07:12.788Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 641238169: 400: Bad Request: chat not found
+2025-11-27T00:07:13.836Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 693472567: 400: Bad Request: chat not found
+2025-11-27T00:07:14.887Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 718333819: 400: Bad Request: chat not found
+2025-11-27T00:07:15.936Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 791436244: 400: Bad Request: chat not found
+2025-11-27T00:07:16.617Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 793401100: 400: Bad Request: chat not found
+2025-11-27T00:07:16.959Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 794008102: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:17.640Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 803307590: 400: Bad Request: chat not found
+2025-11-27T00:07:18.439Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 806715584: 400: Bad Request: chat not found
+2025-11-27T00:07:19.122Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 808184217: 400: Bad Request: chat not found
+2025-11-27T00:07:19.803Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 813761017: 400: Bad Request: chat not found
+2025-11-27T00:07:20.868Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 823414375: 400: Bad Request: chat not found
+2025-11-27T00:07:21.922Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 893680248: 400: Bad Request: chat not found
+2025-11-27T00:07:22.986Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 904169743: 400: Bad Request: chat not found
+2025-11-27T00:07:25.814Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 984331304: 400: Bad Request: chat not found
+2025-11-27T00:07:26.504Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1010934400: 400: Bad Request: chat not found
+2025-11-27T00:07:27.210Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1052794885: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:27.902Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1057674331: 400: Bad Request: chat not found
+2025-11-27T00:07:28.967Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1074003341: 400: Bad Request: chat not found
+2025-11-27T00:07:31.908Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1149212168: 400: Bad Request: chat not found
+2025-11-27T00:07:33.412Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1187999288: 400: Bad Request: chat not found
+2025-11-27T00:07:34.096Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1197982472: 400: Bad Request: chat not found
+2025-11-27T00:07:34.777Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1202200296: 400: Bad Request: chat not found
+2025-11-27T00:07:35.471Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1228693867: 400: Bad Request: chat not found
+2025-11-27T00:07:36.588Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1250676393: 400: Bad Request: chat not found
+2025-11-27T00:07:37.276Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1252840906: 400: Bad Request: chat not found
+2025-11-27T00:07:38.325Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1274477023: 400: Bad Request: chat not found
+2025-11-27T00:07:39.061Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1294583646: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:39.749Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1303823690: 400: Bad Request: chat not found
+2025-11-27T00:07:40.436Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1328452454: 400: Bad Request: chat not found
+2025-11-27T00:07:41.902Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1337630621: 400: Bad Request: chat not found
+2025-11-27T00:07:42.584Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1339500427: 400: Bad Request: chat not found
+2025-11-27T00:07:43.262Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1342327525: 400: Bad Request: chat not found
+2025-11-27T00:07:43.940Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1344149112: 400: Bad Request: chat not found
+2025-11-27T00:07:46.192Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1368385580: 400: Bad Request: chat not found
+2025-11-27T00:07:47.980Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1395156160: 400: Bad Request: chat not found
+2025-11-27T00:07:48.676Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1417954258: 400: Bad Request: chat not found
+2025-11-27T00:07:49.017Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1419484538: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:50.428Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1494687182: 400: Bad Request: chat not found
+2025-11-27T00:07:51.115Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1497136567: 400: Bad Request: chat not found
+2025-11-27T00:07:51.804Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1511618611: 400: Bad Request: chat not found
+2025-11-27T00:07:52.884Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1546021598: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:07:53.568Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1549572838: 400: Bad Request: chat not found
+2025-11-27T00:07:54.635Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1564275538: 400: Bad Request: chat not found
+2025-11-27T00:07:55.310Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1572796834: 400: Bad Request: chat not found
+2025-11-27T00:07:55.995Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1587522954: 400: Bad Request: chat not found
+2025-11-27T00:07:58.513Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1685020711: 400: Bad Request: chat not found
+2025-11-27T00:07:59.193Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1693261908: 400: Bad Request: chat not found
+2025-11-27T00:08:00.615Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1751010371: 400: Bad Request: chat not found
+2025-11-27T00:08:01.303Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1755090501: 400: Bad Request: chat not found
+2025-11-27T00:08:01.979Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1777161608: 400: Bad Request: chat not found
+2025-11-27T00:08:04.150Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1840774761: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:08:04.836Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1855099923: 400: Bad Request: chat not found
+2025-11-27T00:08:05.521Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1879266250: 400: Bad Request: chat not found
+2025-11-27T00:08:06.569Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1892801569: 400: Bad Request: chat not found
+2025-11-27T00:08:07.247Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1908273541: 400: Bad Request: chat not found
+2025-11-27T00:08:07.928Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1910271421: 400: Bad Request: chat not found
+2025-11-27T00:08:08.605Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1926304075: 400: Bad Request: chat not found
+2025-11-27T00:08:09.280Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1933571997: 400: Bad Request: chat not found
+2025-11-27T00:08:09.960Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1941721841: 400: Bad Request: chat not found
+2025-11-27T00:08:11.384Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1977394166: 400: Bad Request: chat not found
+2025-11-27T00:08:12.455Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 1999190768: 400: Bad Request: chat not found
+2025-11-27T00:08:13.594Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2038077259: 400: Bad Request: chat not found
+2025-11-27T00:08:14.276Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2054188429: 400: Bad Request: chat not found
+2025-11-27T00:08:15.685Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2075823168: 400: Bad Request: chat not found
+2025-11-27T00:08:16.361Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2078535594: 400: Bad Request: chat not found
+2025-11-27T00:08:17.771Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2125648368: 400: Bad Request: chat not found
+2025-11-27T00:08:18.458Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 2132162172: 400: Bad Request: chat not found
+2025-11-27T00:08:19.960Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5037794547: 400: Bad Request: chat not found
+2025-11-27T00:08:21.724Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5106869084: 400: Bad Request: chat not found
+2025-11-27T00:08:23.120Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5196590642: 400: Bad Request: chat not found
+2025-11-27T00:08:24.193Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5316122733: 400: Bad Request: chat not found
+2025-11-27T00:08:25.099Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2025-11-27T00:08:25.249Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5374567864: 400: Bad Request: chat not found
+2025-11-27T00:08:25.929Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5402572870: 400: Bad Request: chat not found
+2025-11-27T00:08:27.782Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5426619500: 400: Bad Request: chat not found
+2025-11-27T00:08:28.821Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5454149231: 400: Bad Request: chat not found
+2025-11-27T00:08:30.973Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5499369808: 400: Bad Request: chat not found
+2025-11-27T00:08:32.749Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5533189497: 400: Bad Request: chat not found
+2025-11-27T00:08:33.422Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5573592641: 400: Bad Request: chat not found
+2025-11-27T00:08:34.099Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5577822240: 400: Bad Request: chat not found
+2025-11-27T00:08:35.516Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5612937968: 400: Bad Request: chat not found
+2025-11-27T00:08:36.977Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5635983203: 400: Bad Request: chat not found
+2025-11-27T00:08:38.017Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5648530667: 400: Bad Request: chat not found
+2025-11-27T00:08:39.425Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5677765300: 400: Bad Request: chat not found
+2025-11-27T00:08:40.105Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5683657742: 400: Bad Request: chat not found
+2025-11-27T00:08:40.791Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5689673004: 400: Bad Request: chat not found
+2025-11-27T00:08:41.479Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5692234630: 400: Bad Request: chat not found
+2025-11-27T00:08:42.156Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5708771488: 400: Bad Request: chat not found
+2025-11-27T00:08:44.292Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5732745808: 400: Bad Request: chat not found
+2025-11-27T00:08:44.975Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5737735091: 400: Bad Request: chat not found
+2025-11-27T00:08:46.376Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5756568585: 400: Bad Request: chat not found
+2025-11-27T00:08:47.055Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5776027011: 400: Bad Request: chat not found
+2025-11-27T00:08:48.187Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5812719475: 400: Bad Request: chat not found
+2025-11-27T00:08:50.352Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5850302060: 400: Bad Request: chat not found
+2025-11-27T00:08:52.546Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5902620437: 400: Bad Request: chat not found
+2025-11-27T00:08:53.584Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5920844499: 400: Bad Request: chat not found
+2025-11-27T00:08:54.259Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5931807034: 400: Bad Request: chat not found
+2025-11-27T00:08:55.355Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5941308498: 400: Bad Request: chat not found
+2025-11-27T00:08:56.449Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5956624761: 400: Bad Request: chat not found
+2025-11-27T00:08:57.214Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5987651227: 400: Bad Request: chat not found
+2025-11-27T00:08:57.963Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5988778935: 400: Bad Request: chat not found
+2025-11-27T00:08:58.650Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 5991934270: 400: Bad Request: chat not found
+2025-11-27T00:08:59.329Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6021620704: 400: Bad Request: chat not found
+2025-11-27T00:09:00.369Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6026226487: 400: Bad Request: chat not found
+2025-11-27T00:09:01.416Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6074017116: 400: Bad Request: chat not found
+2025-11-27T00:09:02.101Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6075544586: 400: Bad Request: chat not found
+2025-11-27T00:09:02.812Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6083649512: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:03.511Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6084325890: 400: Bad Request: chat not found
+2025-11-27T00:09:04.567Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6132965725: 400: Bad Request: chat not found
+2025-11-27T00:09:05.759Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6143762878: 400: Bad Request: chat not found
+2025-11-27T00:09:06.842Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6171063737: 400: Bad Request: chat not found
+2025-11-27T00:09:08.152Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6207127602: 400: Bad Request: chat not found
+2025-11-27T00:09:08.855Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6212427015: 400: Bad Request: chat not found
+2025-11-27T00:09:09.570Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6226912808: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:10.739Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6267566097: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:12.195Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6320503561: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:13.345Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6322006831: 400: Bad Request: chat not found
+2025-11-27T00:09:14.024Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6323528575: 400: Bad Request: chat not found
+2025-11-27T00:09:14.708Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6329157945: 400: Bad Request: chat not found
+2025-11-27T00:09:15.386Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6336906399: 400: Bad Request: chat not found
+2025-11-27T00:09:16.431Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6340987858: 400: Bad Request: chat not found
+2025-11-27T00:09:17.843Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358011996: 400: Bad Request: chat not found
+2025-11-27T00:09:18.183Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6358179597: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:18.524Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6364444462: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:19.932Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6391789362: 400: Bad Request: chat not found
+2025-11-27T00:09:21.026Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6415330719: 400: Bad Request: chat not found
+2025-11-27T00:09:22.436Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422122285: 400: Bad Request: chat not found
+2025-11-27T00:09:23.110Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6422415561: 400: Bad Request: chat not found
+2025-11-27T00:09:24.508Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6448380972: 400: Bad Request: chat not found
+2025-11-27T00:09:25.186Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6461362381: 400: Bad Request: chat not found
+2025-11-27T00:09:25.868Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6469466777: 400: Bad Request: chat not found
+2025-11-27T00:09:26.582Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6498783966: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:27.268Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6499204722: 400: Bad Request: chat not found
+2025-11-27T00:09:29.036Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6511444738: 400: Bad Request: chat not found
+2025-11-27T00:09:31.548Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6524575399: 400: Bad Request: chat not found
+2025-11-27T00:09:32.228Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6537586272: 400: Bad Request: chat not found
+2025-11-27T00:09:33.269Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6551574192: 400: Bad Request: chat not found
+2025-11-27T00:09:35.040Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6581289689: 400: Bad Request: chat not found
+2025-11-27T00:09:36.446Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6605578570: 400: Bad Request: chat not found
+2025-11-27T00:09:37.121Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6608443537: 400: Bad Request: chat not found
+2025-11-27T00:09:38.532Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6618089604: 400: Bad Request: chat not found
+2025-11-27T00:09:39.215Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6621869154: 400: Bad Request: chat not found
+2025-11-27T00:09:39.892Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6634381709: 400: Bad Request: chat not found
+2025-11-27T00:09:40.580Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6638403818: 400: Bad Request: chat not found
+2025-11-27T00:09:40.925Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6641812247: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:41.607Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6645712354: 400: Bad Request: chat not found
+2025-11-27T00:09:43.033Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6659321822: 400: Bad Request: chat not found
+2025-11-27T00:09:44.512Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6689451770: 400: Bad Request: chat not found
+2025-11-27T00:09:46.315Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6774906972: 400: Bad Request: chat not found
+2025-11-27T00:09:46.666Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6775795993: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:47.348Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6796507964: 400: Bad Request: chat not found
+2025-11-27T00:09:48.473Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6807236194: 400: Bad Request: chat not found
+2025-11-27T00:09:48.888Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6808130550: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:09:49.741Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6809100247: 400: Bad Request: chat not found
+2025-11-27T00:09:50.795Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6812816008: 400: Bad Request: chat not found
+2025-11-27T00:09:52.248Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6840133455: 400: Bad Request: chat not found
+2025-11-27T00:09:52.939Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6841665083: 400: Bad Request: chat not found
+2025-11-27T00:09:53.621Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6851034839: 400: Bad Request: chat not found
+2025-11-27T00:09:55.114Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6884448043: 400: Bad Request: chat not found
+2025-11-27T00:09:56.597Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917258039: 400: Bad Request: chat not found
+2025-11-27T00:09:57.284Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6917361242: 400: Bad Request: chat not found
+2025-11-27T00:09:58.343Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 6919694249: 400: Bad Request: chat not found
+2025-11-27T00:10:00.483Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7005503331: 400: Bad Request: chat not found
+2025-11-27T00:10:01.173Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7026497998: 400: Bad Request: chat not found
+2025-11-27T00:10:02.025Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7037464109: 400: Bad Request: chat not found
+2025-11-27T00:10:02.710Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7086433067: 400: Bad Request: chat not found
+2025-11-27T00:10:04.484Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7114541533: 400: Bad Request: chat not found
+2025-11-27T00:10:05.165Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7127089684: 400: Bad Request: chat not found
+2025-11-27T00:10:06.213Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7144440494: 400: Bad Request: chat not found
+2025-11-27T00:10:06.896Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7161146605: 400: Bad Request: chat not found
+2025-11-27T00:10:08.715Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7209791934: 400: Bad Request: chat not found
+2025-11-27T00:10:10.565Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7235459458: 400: Bad Request: chat not found
+2025-11-27T00:10:11.249Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7236195112: 400: Bad Request: chat not found
+2025-11-27T00:10:11.929Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7263409376: 400: Bad Request: chat not found
+2025-11-27T00:10:13.347Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324480648: 400: Bad Request: chat not found
+2025-11-27T00:10:14.035Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7324869375: 400: Bad Request: chat not found
+2025-11-27T00:10:15.146Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7345303663: 400: Bad Request: chat not found
+2025-11-27T00:10:16.195Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7372917525: 400: Bad Request: chat not found
+2025-11-27T00:10:17.283Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7429386113: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:10:17.963Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7446881091: 400: Bad Request: chat not found
+2025-11-27T00:10:18.649Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7449627253: 400: Bad Request: chat not found
+2025-11-27T00:10:19.704Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7465370442: 400: Bad Request: chat not found
+2025-11-27T00:10:20.386Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7469879674: 400: Bad Request: chat not found
+2025-11-27T00:10:22.566Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7520860443: 400: Bad Request: chat not found
+2025-11-27T00:10:24.353Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7575211071: 400: Bad Request: chat not found
+2025-11-27T00:10:25.769Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7606124814: 400: Bad Request: chat not found
+2025-11-27T00:10:27.918Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7641892285: 400: Bad Request: chat not found
+2025-11-27T00:10:28.959Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7649633746: 400: Bad Request: chat not found
+2025-11-27T00:10:30.778Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7683622572: 400: Bad Request: chat not found
+2025-11-27T00:10:31.460Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7686667939: 400: Bad Request: chat not found
+2025-11-27T00:10:32.144Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7692401132: 400: Bad Request: chat not found
+2025-11-27T00:10:32.833Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7696416757: 400: Bad Request: chat not found
+2025-11-27T00:10:33.523Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7698439730: 400: Bad Request: chat not found
+2025-11-27T00:10:34.204Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7711356911: 400: Bad Request: chat not found
+2025-11-27T00:10:34.932Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7729095853: 400: Bad Request: chat not found
+2025-11-27T00:10:35.664Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7731683575: 400: Bad Request: chat not found
+2025-11-27T00:10:36.356Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7736989798: 400: Bad Request: chat not found
+2025-11-27T00:10:37.409Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7748551707: 400: Bad Request: chat not found
+2025-11-27T00:10:38.108Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7758150740: 400: Bad Request: chat not found
+2025-11-27T00:10:39.178Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7766811185: 400: Bad Request: chat not found
+2025-11-27T00:10:40.389Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7775219044: 400: Bad Request: chat not found
+2025-11-27T00:10:41.487Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7783468584: 400: Bad Request: chat not found
+2025-11-27T00:10:42.536Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7798647037: 400: Bad Request: chat not found
+2025-11-27T00:10:43.225Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7803540719: 400: Bad Request: chat not found
+2025-11-27T00:10:44.772Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7836564789: 400: Bad Request: chat not found
+2025-11-27T00:10:46.138Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7859353242: 400: Bad Request: chat not found
+2025-11-27T00:10:46.824Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7869274212: 400: Bad Request: chat not found
+2025-11-27T00:10:47.518Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7876172154: 400: Bad Request: chat not found
+2025-11-27T00:10:48.202Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7899457432: 400: Bad Request: chat not found
+2025-11-27T00:10:48.893Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7900982878: 400: Bad Request: chat not found
+2025-11-27T00:10:49.579Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7901116752: 400: Bad Request: chat not found
+2025-11-27T00:10:50.296Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7908924246: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:10:51.799Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7938011031: 400: Bad Request: chat not found
+2025-11-27T00:10:52.488Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7947782566: 400: Bad Request: chat not found
+2025-11-27T00:10:54.077Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7980141797: 400: Bad Request: chat not found
+2025-11-27T00:10:54.762Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7988769456: 400: Bad Request: chat not found
+2025-11-27T00:10:55.112Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 7997124453: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:10:55.826Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8001507141: 400: Bad Request: chat not found
+2025-11-27T00:10:56.883Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8020720645: 400: Bad Request: chat not found
+2025-11-27T00:10:57.595Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8030645853: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:10:58.996Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8045557438: 400: Bad Request: chat not found
+2025-11-27T00:11:00.050Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8058279999: 400: Bad Request: chat not found
+2025-11-27T00:11:01.478Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8076769650: 400: Bad Request: chat not found
+2025-11-27T00:11:02.176Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8084992536: 400: Bad Request: chat not found
+2025-11-27T00:11:04.704Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8156170687: 400: Bad Request: chat not found
+2025-11-27T00:11:05.419Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8194619339: 400: Bad Request: chat not found
+2025-11-27T00:11:07.215Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8219425355: 400: Bad Request: chat not found
+2025-11-27T00:11:07.906Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8223130730: 400: Bad Request: chat not found
+2025-11-27T00:11:08.963Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8233857919: 400: Bad Request: chat not found
+2025-11-27T00:11:10.378Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8245091705: 400: Bad Request: chat not found
+2025-11-27T00:11:11.433Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8263695329: 400: Bad Request: chat not found
+2025-11-27T00:11:12.124Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8275078685: 400: Bad Request: chat not found
+2025-11-27T00:11:12.821Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8283784758: 400: Bad Request: chat not found
+2025-11-27T00:11:13.171Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8290170543: 403: Forbidden: bot was blocked by the user
+2025-11-27T00:11:14.968Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8328025636: 400: Bad Request: chat not found
+2025-11-27T00:11:15.652Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8359019535: 400: Bad Request: chat not found
+2025-11-27T00:11:17.086Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8383197264: 400: Bad Request: chat not found
+2025-11-27T00:11:17.773Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8389342449: 400: Bad Request: chat not found
+2025-11-27T00:11:18.454Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8396669354: 400: Bad Request: chat not found
+2025-11-27T00:11:19.896Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8427677868: 400: Bad Request: chat not found
+2025-11-27T00:11:20.580Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8429366256: 400: Bad Request: chat not found
+2025-11-27T00:11:21.630Z [ERROR]: ⚠️ Kesalahan saat mengirim broadcast ke 8435557899: 400: Bad Request: chat not found
+2025-11-27T00:27:24.163Z [ERROR]: Failed to get server details for ID 5: Not found
+2025-11-27T14:29:47.237Z [ERROR]: Trial API failed for ssh on sagivpn.my.id: timeout of 15000ms exceeded
+2025-11-28T17:31:09.771Z [ERROR]: Error saat mengirim/mengedit menu utama: 400: Bad Request: there is no text in the message to edit
+2025-11-29T18:36:52.902Z [ERROR]: Trial API failed for ssh on sagivpn.my.id: timeout of 15000ms exceeded
